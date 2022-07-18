@@ -112,328 +112,328 @@ namespace TicketingApp
 
         private void SeatValue()
         {
-            frmQueue formQueue = (frmQueue)Application.OpenForms["frmQueue"];
+            frmSeat formSeat = (frmSeat)Application.OpenForms["frmSeat"];
 
-            if (formQueue.lblA1.Text == "X")
+            if (formSeat.lblA1.Text == "X")
             {
                 A1 = 1;
             }
-            if (formQueue.lblB1.Text == "X")
+            if (formSeat.lblB1.Text == "X")
             {
                 B1 = 1;
             }
-            if (formQueue.lblC1.Text == "X")
+            if (formSeat.lblC1.Text == "X")
             {
                 C1 = 1;
             }
-            if (formQueue.lblD1.Text == "X")
+            if (formSeat.lblD1.Text == "X")
             {
                 D1 = 1;
             }
-            if (formQueue.lblE1.Text == "X")
+            if (formSeat.lblE1.Text == "X")
             {
                 E1 = 1;
             }
-            if (formQueue.lblF1.Text == "X")
+            if (formSeat.lblF1.Text == "X")
             {
                 F1 = 1;
             }
 
-            if (formQueue.lblA2.Text == "X")
+            if (formSeat.lblA2.Text == "X")
             {
                 A2 = 1;
             }
-            if (formQueue.lblB2.Text == "X")
+            if (formSeat.lblB2.Text == "X")
             {
                 B2 = 1;
             }
-            if (formQueue.lblC2.Text == "X")
+            if (formSeat.lblC2.Text == "X")
             {
                 C2 = 1;
             }
-            if (formQueue.lblD2.Text == "X")
+            if (formSeat.lblD2.Text == "X")
             {
                 D2 = 1;
             }
-            if (formQueue.lblE2.Text == "X")
+            if (formSeat.lblE2.Text == "X")
             {
                 E2 = 1;
             }
-            if (formQueue.lblF2.Text == "X")
+            if (formSeat.lblF2.Text == "X")
             {
                 F2 = 1;
             }
 
-            if (formQueue.lblA3.Text == "X")
+            if (formSeat.lblA3.Text == "X")
             {
                 A3 = 1;
             }
-            if (formQueue.lblB3.Text == "X")
+            if (formSeat.lblB3.Text == "X")
             {
                 B3 = 1;
             }
-            if (formQueue.lblC3.Text == "X")
+            if (formSeat.lblC3.Text == "X")
             {
                 C3 = 1;
             }
-            if (formQueue.lblD3.Text == "X")
+            if (formSeat.lblD3.Text == "X")
             {
                 D3 = 1;
             }
-            if (formQueue.lblE3.Text == "X")
+            if (formSeat.lblE3.Text == "X")
             {
                 E3 = 1;
             }
-            if (formQueue.lblF3.Text == "X")
+            if (formSeat.lblF3.Text == "X")
             {
                 F3 = 1;
             }
 
-            if (formQueue.lblA4.Text == "X")
+            if (formSeat.lblA4.Text == "X")
             {
                 A4 = 1;
             }
-            if (formQueue.lblB4.Text == "X")
+            if (formSeat.lblB4.Text == "X")
             {
                 B4 = 1;
             }
-            if (formQueue.lblC4.Text == "X")
+            if (formSeat.lblC4.Text == "X")
             {
                 C4 = 1;
             }
-            if (formQueue.lblD4.Text == "X")
+            if (formSeat.lblD4.Text == "X")
             {
                 D4 = 1;
             }
-            if (formQueue.lblE4.Text == "X")
+            if (formSeat.lblE4.Text == "X")
             {
                 E4 = 1;
             }
-            if (formQueue.lblF4.Text == "X")
+            if (formSeat.lblF4.Text == "X")
             {
                 F4 = 1;
             }
 
-            if (formQueue.lblA5.Text == "X")
+            if (formSeat.lblA5.Text == "X")
             {
                 A5 = 1;
             }
-            if (formQueue.lblB5.Text == "X")
+            if (formSeat.lblB5.Text == "X")
             {
                 B5 = 1;
             }
-            if (formQueue.lblC5.Text == "X")
+            if (formSeat.lblC5.Text == "X")
             {
                 C5 = 1;
             }
-            if (formQueue.lblD5.Text == "X")
+            if (formSeat.lblD5.Text == "X")
             {
                 D5 = 1;
             }
-            if (formQueue.lblE5.Text == "X")
+            if (formSeat.lblE5.Text == "X")
             {
                 E5 = 1;
             }
-            if (formQueue.lblF5.Text == "X")
+            if (formSeat.lblF5.Text == "X")
             {
                 F5 = 1;
             }
 
-            if (formQueue.lblA6.Text == "X")
+            if (formSeat.lblA6.Text == "X")
             {
                 A6 = 1;
             }
-            if (formQueue.lblB6.Text == "X")
+            if (formSeat.lblB6.Text == "X")
             {
                 B6 = 1;
             }
-            if (formQueue.lblC6.Text == "X")
+            if (formSeat.lblC6.Text == "X")
             {
                 C6 = 1;
             }
-            if (formQueue.lblD6.Text == "X")
+            if (formSeat.lblD6.Text == "X")
             {
                 D6 = 1;
             }
-            if (formQueue.lblE6.Text == "X")
+            if (formSeat.lblE6.Text == "X")
             {
                 E6 = 1;
             }
-            if (formQueue.lblF6.Text == "X")
+            if (formSeat.lblF6.Text == "X")
             {
                 F6 = 1;
             }
 
-            if (formQueue.lblA7.Text == "X")
+            if (formSeat.lblA7.Text == "X")
             {
                 A7 = 1;
             }
-            if (formQueue.lblB7.Text == "X")
+            if (formSeat.lblB7.Text == "X")
             {
                 B7 = 1;
             }
-            if (formQueue.lblC7.Text == "X")
+            if (formSeat.lblC7.Text == "X")
             {
                 C7 = 1;
             }
-            if (formQueue.lblD7.Text == "X")
+            if (formSeat.lblD7.Text == "X")
             {
                 D7 = 1;
             }
-            if (formQueue.lblE7.Text == "X")
+            if (formSeat.lblE7.Text == "X")
             {
                 E7 = 1;
             }
-            if (formQueue.lblF7.Text == "X")
+            if (formSeat.lblF7.Text == "X")
             {
                 F7 = 1;
             }
 
-            if (formQueue.lblA8.Text == "X")
+            if (formSeat.lblA8.Text == "X")
             {
                 A8 = 1;
             }
-            if (formQueue.lblB8.Text == "X")
+            if (formSeat.lblB8.Text == "X")
             {
                 B8 = 1;
             }
-            if (formQueue.lblC8.Text == "X")
+            if (formSeat.lblC8.Text == "X")
             {
                 C8 = 1;
             }
-            if (formQueue.lblD8.Text == "X")
+            if (formSeat.lblD8.Text == "X")
             {
                 D8 = 1;
             }
-            if (formQueue.lblE8.Text == "X")
+            if (formSeat.lblE8.Text == "X")
             {
                 E8 = 1;
             }
-            if (formQueue.lblF8.Text == "X")
+            if (formSeat.lblF8.Text == "X")
             {
                 F8 = 1;
             }
 
-            if (formQueue.lblA9.Text == "X")
+            if (formSeat.lblA9.Text == "X")
             {
                 A9 = 1;
             }
-            if (formQueue.lblB9.Text == "X")
+            if (formSeat.lblB9.Text == "X")
             {
                 B9 = 1;
             }
-            if (formQueue.lblC9.Text == "X")
+            if (formSeat.lblC9.Text == "X")
             {
                 C9 = 1;
             }
-            if (formQueue.lblD9.Text == "X")
+            if (formSeat.lblD9.Text == "X")
             {
                 D9 = 1;
             }
-            if (formQueue.lblE9.Text == "X")
+            if (formSeat.lblE9.Text == "X")
             {
                 E9 = 1;
             }
-            if (formQueue.lblF9.Text == "X")
+            if (formSeat.lblF9.Text == "X")
             {
                 F9 = 1;
             }
 
-            if (formQueue.lblA10.Text == "X")
+            if (formSeat.lblA10.Text == "X")
             {
                 A10 = 1;
             }
-            if (formQueue.lblB10.Text == "X")
+            if (formSeat.lblB10.Text == "X")
             {
                 B10 = 1;
             }
-            if (formQueue.lblC10.Text == "X")
+            if (formSeat.lblC10.Text == "X")
             {
                 C10 = 1;
             }
-            if (formQueue.lblD10.Text == "X")
+            if (formSeat.lblD10.Text == "X")
             {
                 D10 = 1;
             }
-            if (formQueue.lblE10.Text == "X")
+            if (formSeat.lblE10.Text == "X")
             {
                 E10 = 1;
             }
-            if (formQueue.lblF10.Text == "X")
+            if (formSeat.lblF10.Text == "X")
             {
                 F10 = 1;
             }
 
-            if (formQueue.lblA11.Text == "X")
+            if (formSeat.lblA11.Text == "X")
             {
                 A11 = 1;
             }
-            if (formQueue.lblB11.Text == "X")
+            if (formSeat.lblB11.Text == "X")
             {
                 B11 = 1;
             }
-            if (formQueue.lblC11.Text == "X")
+            if (formSeat.lblC11.Text == "X")
             {
                 C11 = 1;
             }
-            if (formQueue.lblD11.Text == "X")
+            if (formSeat.lblD11.Text == "X")
             {
                 D11 = 1;
             }
-            if (formQueue.lblE11.Text == "X")
+            if (formSeat.lblE11.Text == "X")
             {
                 E11 = 1;
             }
-            if (formQueue.lblF11.Text == "X")
+            if (formSeat.lblF11.Text == "X")
             {
                 F11 = 1;
             }
 
-            if (formQueue.lblA12.Text == "X")
+            if (formSeat.lblA12.Text == "X")
             {
                 A12 = 1;
             }
-            if (formQueue.lblB12.Text == "X")
+            if (formSeat.lblB12.Text == "X")
             {
                 B12 = 1;
             }
-            if (formQueue.lblC12.Text == "X")
+            if (formSeat.lblC12.Text == "X")
             {
                 C12 = 1;
             }
-            if (formQueue.lblD12.Text == "X")
+            if (formSeat.lblD12.Text == "X")
             {
                 D12 = 1;
             }
-            if (formQueue.lblE12.Text == "X")
+            if (formSeat.lblE12.Text == "X")
             {
                 E12 = 1;
             }
-            if (formQueue.lblF12.Text == "X")
+            if (formSeat.lblF12.Text == "X")
             {
                 F12 = 1;
             }
-            if (formQueue.lblA13.Text == "X")
+            if (formSeat.lblA13.Text == "X")
             {
                 A13 = 1;
             }
-            if (formQueue.lblB13.Text == "X")
+            if (formSeat.lblB13.Text == "X")
             {
                 B13 = 1;
             }
-            if (formQueue.lblC13.Text == "X")
+            if (formSeat.lblC13.Text == "X")
             {
                 C13 = 1;
             }
-            if (formQueue.lblD13.Text == "X")
+            if (formSeat.lblD13.Text == "X")
             {
                 D13 = 1;
             }
-            if (formQueue.lblE13.Text == "X")
+            if (formSeat.lblE13.Text == "X")
             {
                 E13 = 1;
             }
-            if (formQueue.lblF13.Text == "X")
+            if (formSeat.lblF13.Text == "X")
             {
                 F13 = 1;
             }

@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace TicketingApp
 {
-    public partial class frmQueue : Form
+    public partial class frmSeat : Form
     {
         
-        public frmQueue()
+        public frmSeat()
         {
             InitializeComponent();
         }

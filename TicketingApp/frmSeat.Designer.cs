@@ -1,6 +1,6 @@
 ﻿namespace TicketingApp
 {
-    partial class frmQueue
+    partial class frmSeat
     {
         /// <summary>
         /// Required designer variable.
@@ -29,83 +29,161 @@
         private void InitializeComponent()
         {
             this.pnlB12 = new System.Windows.Forms.Panel();
+            this.lblB12 = new System.Windows.Forms.Label();
             this.pnlB11 = new System.Windows.Forms.Panel();
+            this.lblB11 = new System.Windows.Forms.Label();
             this.pnlB10 = new System.Windows.Forms.Panel();
+            this.lblB10 = new System.Windows.Forms.Label();
             this.pnlB9 = new System.Windows.Forms.Panel();
+            this.lblB9 = new System.Windows.Forms.Label();
             this.pnlB8 = new System.Windows.Forms.Panel();
+            this.lblB8 = new System.Windows.Forms.Label();
             this.pnlB7 = new System.Windows.Forms.Panel();
+            this.lblB7 = new System.Windows.Forms.Label();
             this.pnlA12 = new System.Windows.Forms.Panel();
+            this.lblA12 = new System.Windows.Forms.Label();
             this.pnlA11 = new System.Windows.Forms.Panel();
+            this.lblA11 = new System.Windows.Forms.Label();
             this.pnlA10 = new System.Windows.Forms.Panel();
+            this.lblA10 = new System.Windows.Forms.Label();
             this.pnlA9 = new System.Windows.Forms.Panel();
+            this.lblA9 = new System.Windows.Forms.Label();
             this.pnlA8 = new System.Windows.Forms.Panel();
+            this.lblA8 = new System.Windows.Forms.Label();
             this.pnlA7 = new System.Windows.Forms.Panel();
+            this.lblA7 = new System.Windows.Forms.Label();
             this.pnlF6 = new System.Windows.Forms.Panel();
+            this.lblF6 = new System.Windows.Forms.Label();
             this.pnlF5 = new System.Windows.Forms.Panel();
+            this.lblF5 = new System.Windows.Forms.Label();
             this.pnlF4 = new System.Windows.Forms.Panel();
+            this.lblF4 = new System.Windows.Forms.Label();
             this.pnlF3 = new System.Windows.Forms.Panel();
+            this.lblF3 = new System.Windows.Forms.Label();
             this.pnlF2 = new System.Windows.Forms.Panel();
+            this.lblF2 = new System.Windows.Forms.Label();
             this.pnlF1 = new System.Windows.Forms.Panel();
+            this.lblF1 = new System.Windows.Forms.Label();
             this.pnlE6 = new System.Windows.Forms.Panel();
+            this.lblE6 = new System.Windows.Forms.Label();
             this.pnlE5 = new System.Windows.Forms.Panel();
+            this.lblE5 = new System.Windows.Forms.Label();
             this.pnlE4 = new System.Windows.Forms.Panel();
+            this.lblE4 = new System.Windows.Forms.Label();
             this.pnlE3 = new System.Windows.Forms.Panel();
+            this.lblE3 = new System.Windows.Forms.Label();
             this.pnlE2 = new System.Windows.Forms.Panel();
+            this.lblE2 = new System.Windows.Forms.Label();
             this.pnlE1 = new System.Windows.Forms.Panel();
+            this.lblE1 = new System.Windows.Forms.Label();
             this.pnlD6 = new System.Windows.Forms.Panel();
+            this.lblD6 = new System.Windows.Forms.Label();
             this.pnlD5 = new System.Windows.Forms.Panel();
+            this.lblD5 = new System.Windows.Forms.Label();
             this.pnlD4 = new System.Windows.Forms.Panel();
+            this.lblD4 = new System.Windows.Forms.Label();
             this.pnlD3 = new System.Windows.Forms.Panel();
+            this.lblD3 = new System.Windows.Forms.Label();
             this.pnlD2 = new System.Windows.Forms.Panel();
+            this.lblD2 = new System.Windows.Forms.Label();
             this.pnlD1 = new System.Windows.Forms.Panel();
+            this.lblD1 = new System.Windows.Forms.Label();
             this.pnlC6 = new System.Windows.Forms.Panel();
+            this.lblC6 = new System.Windows.Forms.Label();
             this.pnlC5 = new System.Windows.Forms.Panel();
+            this.lblC5 = new System.Windows.Forms.Label();
             this.pnlC4 = new System.Windows.Forms.Panel();
+            this.lblC4 = new System.Windows.Forms.Label();
             this.pnlC3 = new System.Windows.Forms.Panel();
+            this.lblC3 = new System.Windows.Forms.Label();
             this.pnlC2 = new System.Windows.Forms.Panel();
+            this.lblC2 = new System.Windows.Forms.Label();
             this.pnlC1 = new System.Windows.Forms.Panel();
+            this.lblC1 = new System.Windows.Forms.Label();
             this.pnlB6 = new System.Windows.Forms.Panel();
+            this.lblB6 = new System.Windows.Forms.Label();
             this.pnlB5 = new System.Windows.Forms.Panel();
+            this.lblB5 = new System.Windows.Forms.Label();
             this.pnlB4 = new System.Windows.Forms.Panel();
+            this.lblB4 = new System.Windows.Forms.Label();
             this.pnlB3 = new System.Windows.Forms.Panel();
+            this.lblB3 = new System.Windows.Forms.Label();
             this.pnlB2 = new System.Windows.Forms.Panel();
+            this.lblB2 = new System.Windows.Forms.Label();
             this.pnlB1 = new System.Windows.Forms.Panel();
+            this.lblB1 = new System.Windows.Forms.Label();
             this.pnlA6 = new System.Windows.Forms.Panel();
+            this.lblA6 = new System.Windows.Forms.Label();
             this.pnlA5 = new System.Windows.Forms.Panel();
+            this.lblA5 = new System.Windows.Forms.Label();
             this.pnlA4 = new System.Windows.Forms.Panel();
+            this.lblA4 = new System.Windows.Forms.Label();
             this.pnlA3 = new System.Windows.Forms.Panel();
+            this.lblA3 = new System.Windows.Forms.Label();
             this.pnlA2 = new System.Windows.Forms.Panel();
+            this.lblA2 = new System.Windows.Forms.Label();
             this.pnlA1 = new System.Windows.Forms.Panel();
+            this.lblA1 = new System.Windows.Forms.Label();
             this.pnlF12 = new System.Windows.Forms.Panel();
+            this.lblF12 = new System.Windows.Forms.Label();
             this.pnlF11 = new System.Windows.Forms.Panel();
+            this.lblF11 = new System.Windows.Forms.Label();
             this.pnlF10 = new System.Windows.Forms.Panel();
+            this.lblF10 = new System.Windows.Forms.Label();
             this.pnlF9 = new System.Windows.Forms.Panel();
+            this.lblF9 = new System.Windows.Forms.Label();
             this.pnlF8 = new System.Windows.Forms.Panel();
+            this.lblF8 = new System.Windows.Forms.Label();
             this.pnlF7 = new System.Windows.Forms.Panel();
+            this.lblF7 = new System.Windows.Forms.Label();
             this.pnlE12 = new System.Windows.Forms.Panel();
+            this.lblE12 = new System.Windows.Forms.Label();
             this.pnlE11 = new System.Windows.Forms.Panel();
+            this.lblE11 = new System.Windows.Forms.Label();
             this.pnlE10 = new System.Windows.Forms.Panel();
+            this.lblE10 = new System.Windows.Forms.Label();
             this.pnlE9 = new System.Windows.Forms.Panel();
+            this.lblE9 = new System.Windows.Forms.Label();
             this.pnlE8 = new System.Windows.Forms.Panel();
+            this.lblE8 = new System.Windows.Forms.Label();
             this.pnlE7 = new System.Windows.Forms.Panel();
+            this.lblE7 = new System.Windows.Forms.Label();
             this.pnlD12 = new System.Windows.Forms.Panel();
+            this.lblD12 = new System.Windows.Forms.Label();
             this.pnlD11 = new System.Windows.Forms.Panel();
+            this.lblD11 = new System.Windows.Forms.Label();
             this.pnlD10 = new System.Windows.Forms.Panel();
+            this.lblD10 = new System.Windows.Forms.Label();
             this.pnlD9 = new System.Windows.Forms.Panel();
+            this.lblD9 = new System.Windows.Forms.Label();
             this.pnlD8 = new System.Windows.Forms.Panel();
+            this.lblD8 = new System.Windows.Forms.Label();
             this.pnlD7 = new System.Windows.Forms.Panel();
+            this.lblD7 = new System.Windows.Forms.Label();
             this.pnlC12 = new System.Windows.Forms.Panel();
+            this.lblC12 = new System.Windows.Forms.Label();
             this.pnlC11 = new System.Windows.Forms.Panel();
+            this.lblC11 = new System.Windows.Forms.Label();
             this.pnlC10 = new System.Windows.Forms.Panel();
+            this.lblC10 = new System.Windows.Forms.Label();
             this.pnlC9 = new System.Windows.Forms.Panel();
+            this.lblC9 = new System.Windows.Forms.Label();
             this.pnlC8 = new System.Windows.Forms.Panel();
+            this.lblC8 = new System.Windows.Forms.Label();
             this.pnlC7 = new System.Windows.Forms.Panel();
+            this.lblC7 = new System.Windows.Forms.Label();
             this.pnlF13 = new System.Windows.Forms.Panel();
+            this.lblF13 = new System.Windows.Forms.Label();
             this.pnlE13 = new System.Windows.Forms.Panel();
+            this.lblE13 = new System.Windows.Forms.Label();
             this.pnlD13 = new System.Windows.Forms.Panel();
+            this.lblD13 = new System.Windows.Forms.Label();
             this.pnlC13 = new System.Windows.Forms.Panel();
+            this.lblC13 = new System.Windows.Forms.Label();
             this.pnlB13 = new System.Windows.Forms.Panel();
+            this.lblB13 = new System.Windows.Forms.Label();
             this.pnlA13 = new System.Windows.Forms.Panel();
+            this.lblA13 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -131,84 +209,6 @@
             this.label98 = new System.Windows.Forms.Label();
             this.label99 = new System.Windows.Forms.Label();
             this.label100 = new System.Windows.Forms.Label();
-            this.lblA1 = new System.Windows.Forms.Label();
-            this.lblA2 = new System.Windows.Forms.Label();
-            this.lblA3 = new System.Windows.Forms.Label();
-            this.lblA4 = new System.Windows.Forms.Label();
-            this.lblA5 = new System.Windows.Forms.Label();
-            this.lblA6 = new System.Windows.Forms.Label();
-            this.lblA7 = new System.Windows.Forms.Label();
-            this.lblA8 = new System.Windows.Forms.Label();
-            this.lblA9 = new System.Windows.Forms.Label();
-            this.lblA10 = new System.Windows.Forms.Label();
-            this.lblA11 = new System.Windows.Forms.Label();
-            this.lblA12 = new System.Windows.Forms.Label();
-            this.lblA13 = new System.Windows.Forms.Label();
-            this.lblB13 = new System.Windows.Forms.Label();
-            this.lblB12 = new System.Windows.Forms.Label();
-            this.lblB11 = new System.Windows.Forms.Label();
-            this.lblB10 = new System.Windows.Forms.Label();
-            this.lblC10 = new System.Windows.Forms.Label();
-            this.lblC11 = new System.Windows.Forms.Label();
-            this.lblC12 = new System.Windows.Forms.Label();
-            this.lblC13 = new System.Windows.Forms.Label();
-            this.lblD13 = new System.Windows.Forms.Label();
-            this.lblD12 = new System.Windows.Forms.Label();
-            this.lblD11 = new System.Windows.Forms.Label();
-            this.lblD10 = new System.Windows.Forms.Label();
-            this.lblE10 = new System.Windows.Forms.Label();
-            this.lblE11 = new System.Windows.Forms.Label();
-            this.lblE12 = new System.Windows.Forms.Label();
-            this.lblF13 = new System.Windows.Forms.Label();
-            this.lblE13 = new System.Windows.Forms.Label();
-            this.lblF12 = new System.Windows.Forms.Label();
-            this.lblF11 = new System.Windows.Forms.Label();
-            this.lblF10 = new System.Windows.Forms.Label();
-            this.lblB9 = new System.Windows.Forms.Label();
-            this.lblB8 = new System.Windows.Forms.Label();
-            this.lblB7 = new System.Windows.Forms.Label();
-            this.lblB6 = new System.Windows.Forms.Label();
-            this.lblB5 = new System.Windows.Forms.Label();
-            this.lblC5 = new System.Windows.Forms.Label();
-            this.lblC6 = new System.Windows.Forms.Label();
-            this.lblC7 = new System.Windows.Forms.Label();
-            this.lblC8 = new System.Windows.Forms.Label();
-            this.lblC9 = new System.Windows.Forms.Label();
-            this.lblD9 = new System.Windows.Forms.Label();
-            this.lblD8 = new System.Windows.Forms.Label();
-            this.lblD7 = new System.Windows.Forms.Label();
-            this.lblD6 = new System.Windows.Forms.Label();
-            this.lblD5 = new System.Windows.Forms.Label();
-            this.lblE5 = new System.Windows.Forms.Label();
-            this.lblE6 = new System.Windows.Forms.Label();
-            this.lblE7 = new System.Windows.Forms.Label();
-            this.lblE8 = new System.Windows.Forms.Label();
-            this.lblF8 = new System.Windows.Forms.Label();
-            this.lblF9 = new System.Windows.Forms.Label();
-            this.lblE9 = new System.Windows.Forms.Label();
-            this.lblF7 = new System.Windows.Forms.Label();
-            this.lblF6 = new System.Windows.Forms.Label();
-            this.lblF5 = new System.Windows.Forms.Label();
-            this.lblB4 = new System.Windows.Forms.Label();
-            this.lblC4 = new System.Windows.Forms.Label();
-            this.lblD4 = new System.Windows.Forms.Label();
-            this.lblE4 = new System.Windows.Forms.Label();
-            this.lblF4 = new System.Windows.Forms.Label();
-            this.lblF3 = new System.Windows.Forms.Label();
-            this.lblE3 = new System.Windows.Forms.Label();
-            this.lblD3 = new System.Windows.Forms.Label();
-            this.lblC3 = new System.Windows.Forms.Label();
-            this.lblB3 = new System.Windows.Forms.Label();
-            this.lblB2 = new System.Windows.Forms.Label();
-            this.lblB1 = new System.Windows.Forms.Label();
-            this.lblC1 = new System.Windows.Forms.Label();
-            this.lblC2 = new System.Windows.Forms.Label();
-            this.lblD2 = new System.Windows.Forms.Label();
-            this.lblD1 = new System.Windows.Forms.Label();
-            this.lblE1 = new System.Windows.Forms.Label();
-            this.lblE2 = new System.Windows.Forms.Label();
-            this.lblF2 = new System.Windows.Forms.Label();
-            this.lblF1 = new System.Windows.Forms.Label();
             this.pnlB12.SuspendLayout();
             this.pnlB11.SuspendLayout();
             this.pnlB10.SuspendLayout();
@@ -300,6 +300,19 @@
             this.pnlB12.Size = new System.Drawing.Size(75, 70);
             this.pnlB12.TabIndex = 87;
             // 
+            // lblB12
+            // 
+            this.lblB12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB12.AutoSize = true;
+            this.lblB12.BackColor = System.Drawing.Color.Transparent;
+            this.lblB12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB12.Location = new System.Drawing.Point(25, 17);
+            this.lblB12.Name = "lblB12";
+            this.lblB12.Size = new System.Drawing.Size(23, 34);
+            this.lblB12.TabIndex = 145;
+            this.lblB12.Text = "*";
+            // 
             // pnlB11
             // 
             this.pnlB11.BackColor = System.Drawing.Color.White;
@@ -309,6 +322,19 @@
             this.pnlB11.Name = "pnlB11";
             this.pnlB11.Size = new System.Drawing.Size(75, 70);
             this.pnlB11.TabIndex = 88;
+            // 
+            // lblB11
+            // 
+            this.lblB11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB11.AutoSize = true;
+            this.lblB11.BackColor = System.Drawing.Color.Transparent;
+            this.lblB11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB11.Location = new System.Drawing.Point(25, 17);
+            this.lblB11.Name = "lblB11";
+            this.lblB11.Size = new System.Drawing.Size(23, 34);
+            this.lblB11.TabIndex = 145;
+            this.lblB11.Text = "*";
             // 
             // pnlB10
             // 
@@ -320,6 +346,19 @@
             this.pnlB10.Size = new System.Drawing.Size(75, 70);
             this.pnlB10.TabIndex = 89;
             // 
+            // lblB10
+            // 
+            this.lblB10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB10.AutoSize = true;
+            this.lblB10.BackColor = System.Drawing.Color.Transparent;
+            this.lblB10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB10.Location = new System.Drawing.Point(25, 17);
+            this.lblB10.Name = "lblB10";
+            this.lblB10.Size = new System.Drawing.Size(23, 34);
+            this.lblB10.TabIndex = 145;
+            this.lblB10.Text = "*";
+            // 
             // pnlB9
             // 
             this.pnlB9.BackColor = System.Drawing.Color.White;
@@ -329,6 +368,19 @@
             this.pnlB9.Name = "pnlB9";
             this.pnlB9.Size = new System.Drawing.Size(75, 70);
             this.pnlB9.TabIndex = 90;
+            // 
+            // lblB9
+            // 
+            this.lblB9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB9.AutoSize = true;
+            this.lblB9.BackColor = System.Drawing.Color.Transparent;
+            this.lblB9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB9.Location = new System.Drawing.Point(25, 17);
+            this.lblB9.Name = "lblB9";
+            this.lblB9.Size = new System.Drawing.Size(23, 34);
+            this.lblB9.TabIndex = 145;
+            this.lblB9.Text = "*";
             // 
             // pnlB8
             // 
@@ -340,6 +392,19 @@
             this.pnlB8.Size = new System.Drawing.Size(75, 70);
             this.pnlB8.TabIndex = 91;
             // 
+            // lblB8
+            // 
+            this.lblB8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB8.AutoSize = true;
+            this.lblB8.BackColor = System.Drawing.Color.Transparent;
+            this.lblB8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB8.Location = new System.Drawing.Point(25, 17);
+            this.lblB8.Name = "lblB8";
+            this.lblB8.Size = new System.Drawing.Size(23, 34);
+            this.lblB8.TabIndex = 145;
+            this.lblB8.Text = "*";
+            // 
             // pnlB7
             // 
             this.pnlB7.BackColor = System.Drawing.Color.White;
@@ -349,6 +414,19 @@
             this.pnlB7.Name = "pnlB7";
             this.pnlB7.Size = new System.Drawing.Size(75, 70);
             this.pnlB7.TabIndex = 86;
+            // 
+            // lblB7
+            // 
+            this.lblB7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB7.AutoSize = true;
+            this.lblB7.BackColor = System.Drawing.Color.Transparent;
+            this.lblB7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB7.Location = new System.Drawing.Point(25, 17);
+            this.lblB7.Name = "lblB7";
+            this.lblB7.Size = new System.Drawing.Size(23, 34);
+            this.lblB7.TabIndex = 145;
+            this.lblB7.Text = "*";
             // 
             // pnlA12
             // 
@@ -360,6 +438,19 @@
             this.pnlA12.Size = new System.Drawing.Size(75, 70);
             this.pnlA12.TabIndex = 81;
             // 
+            // lblA12
+            // 
+            this.lblA12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA12.AutoSize = true;
+            this.lblA12.BackColor = System.Drawing.Color.Transparent;
+            this.lblA12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA12.Location = new System.Drawing.Point(25, 17);
+            this.lblA12.Name = "lblA12";
+            this.lblA12.Size = new System.Drawing.Size(23, 34);
+            this.lblA12.TabIndex = 145;
+            this.lblA12.Text = "*";
+            // 
             // pnlA11
             // 
             this.pnlA11.BackColor = System.Drawing.Color.White;
@@ -369,6 +460,19 @@
             this.pnlA11.Name = "pnlA11";
             this.pnlA11.Size = new System.Drawing.Size(75, 70);
             this.pnlA11.TabIndex = 82;
+            // 
+            // lblA11
+            // 
+            this.lblA11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA11.AutoSize = true;
+            this.lblA11.BackColor = System.Drawing.Color.Transparent;
+            this.lblA11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA11.Location = new System.Drawing.Point(25, 17);
+            this.lblA11.Name = "lblA11";
+            this.lblA11.Size = new System.Drawing.Size(23, 34);
+            this.lblA11.TabIndex = 145;
+            this.lblA11.Text = "*";
             // 
             // pnlA10
             // 
@@ -380,6 +484,19 @@
             this.pnlA10.Size = new System.Drawing.Size(75, 70);
             this.pnlA10.TabIndex = 83;
             // 
+            // lblA10
+            // 
+            this.lblA10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA10.AutoSize = true;
+            this.lblA10.BackColor = System.Drawing.Color.Transparent;
+            this.lblA10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA10.Location = new System.Drawing.Point(25, 17);
+            this.lblA10.Name = "lblA10";
+            this.lblA10.Size = new System.Drawing.Size(23, 34);
+            this.lblA10.TabIndex = 145;
+            this.lblA10.Text = "*";
+            // 
             // pnlA9
             // 
             this.pnlA9.BackColor = System.Drawing.Color.White;
@@ -389,6 +506,19 @@
             this.pnlA9.Name = "pnlA9";
             this.pnlA9.Size = new System.Drawing.Size(75, 70);
             this.pnlA9.TabIndex = 84;
+            // 
+            // lblA9
+            // 
+            this.lblA9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA9.AutoSize = true;
+            this.lblA9.BackColor = System.Drawing.Color.Transparent;
+            this.lblA9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA9.Location = new System.Drawing.Point(25, 17);
+            this.lblA9.Name = "lblA9";
+            this.lblA9.Size = new System.Drawing.Size(23, 34);
+            this.lblA9.TabIndex = 145;
+            this.lblA9.Text = "*";
             // 
             // pnlA8
             // 
@@ -400,6 +530,19 @@
             this.pnlA8.Size = new System.Drawing.Size(75, 70);
             this.pnlA8.TabIndex = 85;
             // 
+            // lblA8
+            // 
+            this.lblA8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA8.AutoSize = true;
+            this.lblA8.BackColor = System.Drawing.Color.Transparent;
+            this.lblA8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA8.Location = new System.Drawing.Point(25, 17);
+            this.lblA8.Name = "lblA8";
+            this.lblA8.Size = new System.Drawing.Size(23, 34);
+            this.lblA8.TabIndex = 145;
+            this.lblA8.Text = "*";
+            // 
             // pnlA7
             // 
             this.pnlA7.BackColor = System.Drawing.Color.White;
@@ -409,6 +552,19 @@
             this.pnlA7.Name = "pnlA7";
             this.pnlA7.Size = new System.Drawing.Size(75, 70);
             this.pnlA7.TabIndex = 80;
+            // 
+            // lblA7
+            // 
+            this.lblA7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA7.AutoSize = true;
+            this.lblA7.BackColor = System.Drawing.Color.Transparent;
+            this.lblA7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA7.Location = new System.Drawing.Point(25, 17);
+            this.lblA7.Name = "lblA7";
+            this.lblA7.Size = new System.Drawing.Size(23, 34);
+            this.lblA7.TabIndex = 145;
+            this.lblA7.Text = "*";
             // 
             // pnlF6
             // 
@@ -420,6 +576,19 @@
             this.pnlF6.Size = new System.Drawing.Size(75, 70);
             this.pnlF6.TabIndex = 75;
             // 
+            // lblF6
+            // 
+            this.lblF6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF6.AutoSize = true;
+            this.lblF6.BackColor = System.Drawing.Color.Transparent;
+            this.lblF6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF6.Location = new System.Drawing.Point(25, 17);
+            this.lblF6.Name = "lblF6";
+            this.lblF6.Size = new System.Drawing.Size(23, 34);
+            this.lblF6.TabIndex = 145;
+            this.lblF6.Text = "*";
+            // 
             // pnlF5
             // 
             this.pnlF5.BackColor = System.Drawing.Color.White;
@@ -429,6 +598,19 @@
             this.pnlF5.Name = "pnlF5";
             this.pnlF5.Size = new System.Drawing.Size(75, 70);
             this.pnlF5.TabIndex = 76;
+            // 
+            // lblF5
+            // 
+            this.lblF5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF5.AutoSize = true;
+            this.lblF5.BackColor = System.Drawing.Color.Transparent;
+            this.lblF5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF5.Location = new System.Drawing.Point(25, 17);
+            this.lblF5.Name = "lblF5";
+            this.lblF5.Size = new System.Drawing.Size(23, 34);
+            this.lblF5.TabIndex = 145;
+            this.lblF5.Text = "*";
             // 
             // pnlF4
             // 
@@ -440,6 +622,19 @@
             this.pnlF4.Size = new System.Drawing.Size(75, 70);
             this.pnlF4.TabIndex = 77;
             // 
+            // lblF4
+            // 
+            this.lblF4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF4.AutoSize = true;
+            this.lblF4.BackColor = System.Drawing.Color.Transparent;
+            this.lblF4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF4.Location = new System.Drawing.Point(25, 17);
+            this.lblF4.Name = "lblF4";
+            this.lblF4.Size = new System.Drawing.Size(23, 34);
+            this.lblF4.TabIndex = 145;
+            this.lblF4.Text = "*";
+            // 
             // pnlF3
             // 
             this.pnlF3.BackColor = System.Drawing.Color.White;
@@ -449,6 +644,19 @@
             this.pnlF3.Name = "pnlF3";
             this.pnlF3.Size = new System.Drawing.Size(75, 70);
             this.pnlF3.TabIndex = 78;
+            // 
+            // lblF3
+            // 
+            this.lblF3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF3.AutoSize = true;
+            this.lblF3.BackColor = System.Drawing.Color.Transparent;
+            this.lblF3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF3.Location = new System.Drawing.Point(25, 17);
+            this.lblF3.Name = "lblF3";
+            this.lblF3.Size = new System.Drawing.Size(23, 34);
+            this.lblF3.TabIndex = 145;
+            this.lblF3.Text = "*";
             // 
             // pnlF2
             // 
@@ -460,6 +668,19 @@
             this.pnlF2.Size = new System.Drawing.Size(75, 70);
             this.pnlF2.TabIndex = 79;
             // 
+            // lblF2
+            // 
+            this.lblF2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF2.AutoSize = true;
+            this.lblF2.BackColor = System.Drawing.Color.Transparent;
+            this.lblF2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF2.Location = new System.Drawing.Point(25, 17);
+            this.lblF2.Name = "lblF2";
+            this.lblF2.Size = new System.Drawing.Size(23, 34);
+            this.lblF2.TabIndex = 145;
+            this.lblF2.Text = "*";
+            // 
             // pnlF1
             // 
             this.pnlF1.BackColor = System.Drawing.Color.White;
@@ -469,6 +690,19 @@
             this.pnlF1.Name = "pnlF1";
             this.pnlF1.Size = new System.Drawing.Size(75, 70);
             this.pnlF1.TabIndex = 74;
+            // 
+            // lblF1
+            // 
+            this.lblF1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF1.AutoSize = true;
+            this.lblF1.BackColor = System.Drawing.Color.Transparent;
+            this.lblF1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF1.Location = new System.Drawing.Point(25, 17);
+            this.lblF1.Name = "lblF1";
+            this.lblF1.Size = new System.Drawing.Size(23, 34);
+            this.lblF1.TabIndex = 145;
+            this.lblF1.Text = "*";
             // 
             // pnlE6
             // 
@@ -480,6 +714,19 @@
             this.pnlE6.Size = new System.Drawing.Size(75, 70);
             this.pnlE6.TabIndex = 72;
             // 
+            // lblE6
+            // 
+            this.lblE6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE6.AutoSize = true;
+            this.lblE6.BackColor = System.Drawing.Color.Transparent;
+            this.lblE6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE6.Location = new System.Drawing.Point(25, 17);
+            this.lblE6.Name = "lblE6";
+            this.lblE6.Size = new System.Drawing.Size(23, 34);
+            this.lblE6.TabIndex = 145;
+            this.lblE6.Text = "*";
+            // 
             // pnlE5
             // 
             this.pnlE5.BackColor = System.Drawing.Color.White;
@@ -489,6 +736,19 @@
             this.pnlE5.Name = "pnlE5";
             this.pnlE5.Size = new System.Drawing.Size(75, 70);
             this.pnlE5.TabIndex = 71;
+            // 
+            // lblE5
+            // 
+            this.lblE5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE5.AutoSize = true;
+            this.lblE5.BackColor = System.Drawing.Color.Transparent;
+            this.lblE5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE5.Location = new System.Drawing.Point(25, 17);
+            this.lblE5.Name = "lblE5";
+            this.lblE5.Size = new System.Drawing.Size(23, 34);
+            this.lblE5.TabIndex = 145;
+            this.lblE5.Text = "*";
             // 
             // pnlE4
             // 
@@ -500,6 +760,19 @@
             this.pnlE4.Size = new System.Drawing.Size(75, 70);
             this.pnlE4.TabIndex = 70;
             // 
+            // lblE4
+            // 
+            this.lblE4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE4.AutoSize = true;
+            this.lblE4.BackColor = System.Drawing.Color.Transparent;
+            this.lblE4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE4.Location = new System.Drawing.Point(25, 17);
+            this.lblE4.Name = "lblE4";
+            this.lblE4.Size = new System.Drawing.Size(23, 34);
+            this.lblE4.TabIndex = 145;
+            this.lblE4.Text = "*";
+            // 
             // pnlE3
             // 
             this.pnlE3.BackColor = System.Drawing.Color.White;
@@ -509,6 +782,19 @@
             this.pnlE3.Name = "pnlE3";
             this.pnlE3.Size = new System.Drawing.Size(75, 70);
             this.pnlE3.TabIndex = 69;
+            // 
+            // lblE3
+            // 
+            this.lblE3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE3.AutoSize = true;
+            this.lblE3.BackColor = System.Drawing.Color.Transparent;
+            this.lblE3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE3.Location = new System.Drawing.Point(25, 17);
+            this.lblE3.Name = "lblE3";
+            this.lblE3.Size = new System.Drawing.Size(23, 34);
+            this.lblE3.TabIndex = 145;
+            this.lblE3.Text = "*";
             // 
             // pnlE2
             // 
@@ -520,6 +806,19 @@
             this.pnlE2.Size = new System.Drawing.Size(75, 70);
             this.pnlE2.TabIndex = 73;
             // 
+            // lblE2
+            // 
+            this.lblE2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE2.AutoSize = true;
+            this.lblE2.BackColor = System.Drawing.Color.Transparent;
+            this.lblE2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE2.Location = new System.Drawing.Point(25, 17);
+            this.lblE2.Name = "lblE2";
+            this.lblE2.Size = new System.Drawing.Size(23, 34);
+            this.lblE2.TabIndex = 145;
+            this.lblE2.Text = "*";
+            // 
             // pnlE1
             // 
             this.pnlE1.BackColor = System.Drawing.Color.White;
@@ -529,6 +828,19 @@
             this.pnlE1.Name = "pnlE1";
             this.pnlE1.Size = new System.Drawing.Size(75, 70);
             this.pnlE1.TabIndex = 68;
+            // 
+            // lblE1
+            // 
+            this.lblE1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE1.AutoSize = true;
+            this.lblE1.BackColor = System.Drawing.Color.Transparent;
+            this.lblE1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE1.Location = new System.Drawing.Point(25, 17);
+            this.lblE1.Name = "lblE1";
+            this.lblE1.Size = new System.Drawing.Size(23, 34);
+            this.lblE1.TabIndex = 145;
+            this.lblE1.Text = "*";
             // 
             // pnlD6
             // 
@@ -540,6 +852,19 @@
             this.pnlD6.Size = new System.Drawing.Size(75, 70);
             this.pnlD6.TabIndex = 63;
             // 
+            // lblD6
+            // 
+            this.lblD6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD6.AutoSize = true;
+            this.lblD6.BackColor = System.Drawing.Color.Transparent;
+            this.lblD6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD6.Location = new System.Drawing.Point(25, 17);
+            this.lblD6.Name = "lblD6";
+            this.lblD6.Size = new System.Drawing.Size(23, 34);
+            this.lblD6.TabIndex = 145;
+            this.lblD6.Text = "*";
+            // 
             // pnlD5
             // 
             this.pnlD5.BackColor = System.Drawing.Color.White;
@@ -549,6 +874,19 @@
             this.pnlD5.Name = "pnlD5";
             this.pnlD5.Size = new System.Drawing.Size(75, 70);
             this.pnlD5.TabIndex = 64;
+            // 
+            // lblD5
+            // 
+            this.lblD5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD5.AutoSize = true;
+            this.lblD5.BackColor = System.Drawing.Color.Transparent;
+            this.lblD5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD5.Location = new System.Drawing.Point(25, 17);
+            this.lblD5.Name = "lblD5";
+            this.lblD5.Size = new System.Drawing.Size(23, 34);
+            this.lblD5.TabIndex = 145;
+            this.lblD5.Text = "*";
             // 
             // pnlD4
             // 
@@ -560,6 +898,19 @@
             this.pnlD4.Size = new System.Drawing.Size(75, 70);
             this.pnlD4.TabIndex = 65;
             // 
+            // lblD4
+            // 
+            this.lblD4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD4.AutoSize = true;
+            this.lblD4.BackColor = System.Drawing.Color.Transparent;
+            this.lblD4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD4.Location = new System.Drawing.Point(25, 17);
+            this.lblD4.Name = "lblD4";
+            this.lblD4.Size = new System.Drawing.Size(23, 34);
+            this.lblD4.TabIndex = 145;
+            this.lblD4.Text = "*";
+            // 
             // pnlD3
             // 
             this.pnlD3.BackColor = System.Drawing.Color.White;
@@ -569,6 +920,19 @@
             this.pnlD3.Name = "pnlD3";
             this.pnlD3.Size = new System.Drawing.Size(75, 70);
             this.pnlD3.TabIndex = 66;
+            // 
+            // lblD3
+            // 
+            this.lblD3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD3.AutoSize = true;
+            this.lblD3.BackColor = System.Drawing.Color.Transparent;
+            this.lblD3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD3.Location = new System.Drawing.Point(25, 17);
+            this.lblD3.Name = "lblD3";
+            this.lblD3.Size = new System.Drawing.Size(23, 34);
+            this.lblD3.TabIndex = 145;
+            this.lblD3.Text = "*";
             // 
             // pnlD2
             // 
@@ -580,6 +944,19 @@
             this.pnlD2.Size = new System.Drawing.Size(75, 70);
             this.pnlD2.TabIndex = 67;
             // 
+            // lblD2
+            // 
+            this.lblD2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD2.AutoSize = true;
+            this.lblD2.BackColor = System.Drawing.Color.Transparent;
+            this.lblD2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD2.Location = new System.Drawing.Point(25, 17);
+            this.lblD2.Name = "lblD2";
+            this.lblD2.Size = new System.Drawing.Size(23, 34);
+            this.lblD2.TabIndex = 145;
+            this.lblD2.Text = "*";
+            // 
             // pnlD1
             // 
             this.pnlD1.BackColor = System.Drawing.Color.White;
@@ -589,6 +966,19 @@
             this.pnlD1.Name = "pnlD1";
             this.pnlD1.Size = new System.Drawing.Size(75, 70);
             this.pnlD1.TabIndex = 62;
+            // 
+            // lblD1
+            // 
+            this.lblD1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD1.AutoSize = true;
+            this.lblD1.BackColor = System.Drawing.Color.Transparent;
+            this.lblD1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD1.Location = new System.Drawing.Point(25, 17);
+            this.lblD1.Name = "lblD1";
+            this.lblD1.Size = new System.Drawing.Size(23, 34);
+            this.lblD1.TabIndex = 145;
+            this.lblD1.Text = "*";
             // 
             // pnlC6
             // 
@@ -600,6 +990,19 @@
             this.pnlC6.Size = new System.Drawing.Size(75, 70);
             this.pnlC6.TabIndex = 57;
             // 
+            // lblC6
+            // 
+            this.lblC6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC6.AutoSize = true;
+            this.lblC6.BackColor = System.Drawing.Color.Transparent;
+            this.lblC6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC6.Location = new System.Drawing.Point(25, 17);
+            this.lblC6.Name = "lblC6";
+            this.lblC6.Size = new System.Drawing.Size(23, 34);
+            this.lblC6.TabIndex = 145;
+            this.lblC6.Text = "*";
+            // 
             // pnlC5
             // 
             this.pnlC5.BackColor = System.Drawing.Color.White;
@@ -609,6 +1012,19 @@
             this.pnlC5.Name = "pnlC5";
             this.pnlC5.Size = new System.Drawing.Size(75, 70);
             this.pnlC5.TabIndex = 58;
+            // 
+            // lblC5
+            // 
+            this.lblC5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC5.AutoSize = true;
+            this.lblC5.BackColor = System.Drawing.Color.Transparent;
+            this.lblC5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC5.Location = new System.Drawing.Point(25, 17);
+            this.lblC5.Name = "lblC5";
+            this.lblC5.Size = new System.Drawing.Size(23, 34);
+            this.lblC5.TabIndex = 145;
+            this.lblC5.Text = "*";
             // 
             // pnlC4
             // 
@@ -620,6 +1036,19 @@
             this.pnlC4.Size = new System.Drawing.Size(75, 70);
             this.pnlC4.TabIndex = 59;
             // 
+            // lblC4
+            // 
+            this.lblC4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC4.AutoSize = true;
+            this.lblC4.BackColor = System.Drawing.Color.Transparent;
+            this.lblC4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC4.Location = new System.Drawing.Point(25, 17);
+            this.lblC4.Name = "lblC4";
+            this.lblC4.Size = new System.Drawing.Size(23, 34);
+            this.lblC4.TabIndex = 145;
+            this.lblC4.Text = "*";
+            // 
             // pnlC3
             // 
             this.pnlC3.BackColor = System.Drawing.Color.White;
@@ -629,6 +1058,19 @@
             this.pnlC3.Name = "pnlC3";
             this.pnlC3.Size = new System.Drawing.Size(75, 70);
             this.pnlC3.TabIndex = 60;
+            // 
+            // lblC3
+            // 
+            this.lblC3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC3.AutoSize = true;
+            this.lblC3.BackColor = System.Drawing.Color.Transparent;
+            this.lblC3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC3.Location = new System.Drawing.Point(25, 17);
+            this.lblC3.Name = "lblC3";
+            this.lblC3.Size = new System.Drawing.Size(23, 34);
+            this.lblC3.TabIndex = 145;
+            this.lblC3.Text = "*";
             // 
             // pnlC2
             // 
@@ -640,6 +1082,19 @@
             this.pnlC2.Size = new System.Drawing.Size(75, 70);
             this.pnlC2.TabIndex = 61;
             // 
+            // lblC2
+            // 
+            this.lblC2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC2.AutoSize = true;
+            this.lblC2.BackColor = System.Drawing.Color.Transparent;
+            this.lblC2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC2.Location = new System.Drawing.Point(25, 17);
+            this.lblC2.Name = "lblC2";
+            this.lblC2.Size = new System.Drawing.Size(23, 34);
+            this.lblC2.TabIndex = 145;
+            this.lblC2.Text = "*";
+            // 
             // pnlC1
             // 
             this.pnlC1.BackColor = System.Drawing.Color.White;
@@ -649,6 +1104,19 @@
             this.pnlC1.Name = "pnlC1";
             this.pnlC1.Size = new System.Drawing.Size(75, 70);
             this.pnlC1.TabIndex = 56;
+            // 
+            // lblC1
+            // 
+            this.lblC1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC1.AutoSize = true;
+            this.lblC1.BackColor = System.Drawing.Color.Transparent;
+            this.lblC1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC1.Location = new System.Drawing.Point(25, 17);
+            this.lblC1.Name = "lblC1";
+            this.lblC1.Size = new System.Drawing.Size(23, 34);
+            this.lblC1.TabIndex = 145;
+            this.lblC1.Text = "*";
             // 
             // pnlB6
             // 
@@ -660,6 +1128,19 @@
             this.pnlB6.Size = new System.Drawing.Size(75, 70);
             this.pnlB6.TabIndex = 51;
             // 
+            // lblB6
+            // 
+            this.lblB6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB6.AutoSize = true;
+            this.lblB6.BackColor = System.Drawing.Color.Transparent;
+            this.lblB6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB6.Location = new System.Drawing.Point(25, 17);
+            this.lblB6.Name = "lblB6";
+            this.lblB6.Size = new System.Drawing.Size(23, 34);
+            this.lblB6.TabIndex = 145;
+            this.lblB6.Text = "*";
+            // 
             // pnlB5
             // 
             this.pnlB5.BackColor = System.Drawing.Color.White;
@@ -669,6 +1150,19 @@
             this.pnlB5.Name = "pnlB5";
             this.pnlB5.Size = new System.Drawing.Size(75, 70);
             this.pnlB5.TabIndex = 52;
+            // 
+            // lblB5
+            // 
+            this.lblB5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB5.AutoSize = true;
+            this.lblB5.BackColor = System.Drawing.Color.Transparent;
+            this.lblB5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB5.Location = new System.Drawing.Point(25, 17);
+            this.lblB5.Name = "lblB5";
+            this.lblB5.Size = new System.Drawing.Size(23, 34);
+            this.lblB5.TabIndex = 145;
+            this.lblB5.Text = "*";
             // 
             // pnlB4
             // 
@@ -680,6 +1174,19 @@
             this.pnlB4.Size = new System.Drawing.Size(75, 70);
             this.pnlB4.TabIndex = 53;
             // 
+            // lblB4
+            // 
+            this.lblB4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB4.AutoSize = true;
+            this.lblB4.BackColor = System.Drawing.Color.Transparent;
+            this.lblB4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB4.Location = new System.Drawing.Point(25, 17);
+            this.lblB4.Name = "lblB4";
+            this.lblB4.Size = new System.Drawing.Size(23, 34);
+            this.lblB4.TabIndex = 145;
+            this.lblB4.Text = "*";
+            // 
             // pnlB3
             // 
             this.pnlB3.BackColor = System.Drawing.Color.White;
@@ -689,6 +1196,19 @@
             this.pnlB3.Name = "pnlB3";
             this.pnlB3.Size = new System.Drawing.Size(75, 70);
             this.pnlB3.TabIndex = 54;
+            // 
+            // lblB3
+            // 
+            this.lblB3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB3.AutoSize = true;
+            this.lblB3.BackColor = System.Drawing.Color.Transparent;
+            this.lblB3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB3.Location = new System.Drawing.Point(25, 17);
+            this.lblB3.Name = "lblB3";
+            this.lblB3.Size = new System.Drawing.Size(23, 34);
+            this.lblB3.TabIndex = 145;
+            this.lblB3.Text = "*";
             // 
             // pnlB2
             // 
@@ -700,6 +1220,19 @@
             this.pnlB2.Size = new System.Drawing.Size(75, 70);
             this.pnlB2.TabIndex = 55;
             // 
+            // lblB2
+            // 
+            this.lblB2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB2.AutoSize = true;
+            this.lblB2.BackColor = System.Drawing.Color.Transparent;
+            this.lblB2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB2.Location = new System.Drawing.Point(25, 17);
+            this.lblB2.Name = "lblB2";
+            this.lblB2.Size = new System.Drawing.Size(23, 34);
+            this.lblB2.TabIndex = 145;
+            this.lblB2.Text = "*";
+            // 
             // pnlB1
             // 
             this.pnlB1.BackColor = System.Drawing.Color.White;
@@ -709,6 +1242,19 @@
             this.pnlB1.Name = "pnlB1";
             this.pnlB1.Size = new System.Drawing.Size(75, 70);
             this.pnlB1.TabIndex = 50;
+            // 
+            // lblB1
+            // 
+            this.lblB1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB1.AutoSize = true;
+            this.lblB1.BackColor = System.Drawing.Color.Transparent;
+            this.lblB1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB1.Location = new System.Drawing.Point(25, 17);
+            this.lblB1.Name = "lblB1";
+            this.lblB1.Size = new System.Drawing.Size(23, 34);
+            this.lblB1.TabIndex = 145;
+            this.lblB1.Text = "*";
             // 
             // pnlA6
             // 
@@ -720,6 +1266,19 @@
             this.pnlA6.Size = new System.Drawing.Size(75, 70);
             this.pnlA6.TabIndex = 45;
             // 
+            // lblA6
+            // 
+            this.lblA6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA6.AutoSize = true;
+            this.lblA6.BackColor = System.Drawing.Color.Transparent;
+            this.lblA6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA6.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA6.Location = new System.Drawing.Point(25, 17);
+            this.lblA6.Name = "lblA6";
+            this.lblA6.Size = new System.Drawing.Size(23, 34);
+            this.lblA6.TabIndex = 145;
+            this.lblA6.Text = "*";
+            // 
             // pnlA5
             // 
             this.pnlA5.BackColor = System.Drawing.Color.White;
@@ -729,6 +1288,19 @@
             this.pnlA5.Name = "pnlA5";
             this.pnlA5.Size = new System.Drawing.Size(75, 70);
             this.pnlA5.TabIndex = 46;
+            // 
+            // lblA5
+            // 
+            this.lblA5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA5.AutoSize = true;
+            this.lblA5.BackColor = System.Drawing.Color.Transparent;
+            this.lblA5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA5.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA5.Location = new System.Drawing.Point(25, 17);
+            this.lblA5.Name = "lblA5";
+            this.lblA5.Size = new System.Drawing.Size(23, 34);
+            this.lblA5.TabIndex = 145;
+            this.lblA5.Text = "*";
             // 
             // pnlA4
             // 
@@ -740,6 +1312,19 @@
             this.pnlA4.Size = new System.Drawing.Size(75, 70);
             this.pnlA4.TabIndex = 49;
             // 
+            // lblA4
+            // 
+            this.lblA4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA4.AutoSize = true;
+            this.lblA4.BackColor = System.Drawing.Color.Transparent;
+            this.lblA4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA4.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA4.Location = new System.Drawing.Point(25, 17);
+            this.lblA4.Name = "lblA4";
+            this.lblA4.Size = new System.Drawing.Size(23, 34);
+            this.lblA4.TabIndex = 145;
+            this.lblA4.Text = "*";
+            // 
             // pnlA3
             // 
             this.pnlA3.BackColor = System.Drawing.Color.White;
@@ -749,6 +1334,19 @@
             this.pnlA3.Name = "pnlA3";
             this.pnlA3.Size = new System.Drawing.Size(75, 70);
             this.pnlA3.TabIndex = 48;
+            // 
+            // lblA3
+            // 
+            this.lblA3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA3.AutoSize = true;
+            this.lblA3.BackColor = System.Drawing.Color.Transparent;
+            this.lblA3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA3.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA3.Location = new System.Drawing.Point(25, 17);
+            this.lblA3.Name = "lblA3";
+            this.lblA3.Size = new System.Drawing.Size(23, 34);
+            this.lblA3.TabIndex = 145;
+            this.lblA3.Text = "*";
             // 
             // pnlA2
             // 
@@ -760,6 +1358,19 @@
             this.pnlA2.Size = new System.Drawing.Size(75, 70);
             this.pnlA2.TabIndex = 47;
             // 
+            // lblA2
+            // 
+            this.lblA2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA2.AutoSize = true;
+            this.lblA2.BackColor = System.Drawing.Color.Transparent;
+            this.lblA2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA2.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA2.Location = new System.Drawing.Point(25, 17);
+            this.lblA2.Name = "lblA2";
+            this.lblA2.Size = new System.Drawing.Size(23, 34);
+            this.lblA2.TabIndex = 145;
+            this.lblA2.Text = "*";
+            // 
             // pnlA1
             // 
             this.pnlA1.BackColor = System.Drawing.Color.White;
@@ -769,6 +1380,19 @@
             this.pnlA1.Name = "pnlA1";
             this.pnlA1.Size = new System.Drawing.Size(75, 70);
             this.pnlA1.TabIndex = 44;
+            // 
+            // lblA1
+            // 
+            this.lblA1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA1.AutoSize = true;
+            this.lblA1.BackColor = System.Drawing.Color.Transparent;
+            this.lblA1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA1.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA1.Location = new System.Drawing.Point(22, 17);
+            this.lblA1.Name = "lblA1";
+            this.lblA1.Size = new System.Drawing.Size(23, 34);
+            this.lblA1.TabIndex = 144;
+            this.lblA1.Text = "*";
             // 
             // pnlF12
             // 
@@ -780,6 +1404,19 @@
             this.pnlF12.Size = new System.Drawing.Size(75, 70);
             this.pnlF12.TabIndex = 111;
             // 
+            // lblF12
+            // 
+            this.lblF12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF12.AutoSize = true;
+            this.lblF12.BackColor = System.Drawing.Color.Transparent;
+            this.lblF12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF12.Location = new System.Drawing.Point(25, 17);
+            this.lblF12.Name = "lblF12";
+            this.lblF12.Size = new System.Drawing.Size(23, 34);
+            this.lblF12.TabIndex = 145;
+            this.lblF12.Text = "*";
+            // 
             // pnlF11
             // 
             this.pnlF11.BackColor = System.Drawing.Color.White;
@@ -789,6 +1426,19 @@
             this.pnlF11.Name = "pnlF11";
             this.pnlF11.Size = new System.Drawing.Size(75, 70);
             this.pnlF11.TabIndex = 112;
+            // 
+            // lblF11
+            // 
+            this.lblF11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF11.AutoSize = true;
+            this.lblF11.BackColor = System.Drawing.Color.Transparent;
+            this.lblF11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF11.Location = new System.Drawing.Point(25, 17);
+            this.lblF11.Name = "lblF11";
+            this.lblF11.Size = new System.Drawing.Size(23, 34);
+            this.lblF11.TabIndex = 145;
+            this.lblF11.Text = "*";
             // 
             // pnlF10
             // 
@@ -800,6 +1450,19 @@
             this.pnlF10.Size = new System.Drawing.Size(75, 70);
             this.pnlF10.TabIndex = 113;
             // 
+            // lblF10
+            // 
+            this.lblF10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF10.AutoSize = true;
+            this.lblF10.BackColor = System.Drawing.Color.Transparent;
+            this.lblF10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF10.Location = new System.Drawing.Point(25, 17);
+            this.lblF10.Name = "lblF10";
+            this.lblF10.Size = new System.Drawing.Size(23, 34);
+            this.lblF10.TabIndex = 145;
+            this.lblF10.Text = "*";
+            // 
             // pnlF9
             // 
             this.pnlF9.BackColor = System.Drawing.Color.White;
@@ -809,6 +1472,19 @@
             this.pnlF9.Name = "pnlF9";
             this.pnlF9.Size = new System.Drawing.Size(75, 70);
             this.pnlF9.TabIndex = 114;
+            // 
+            // lblF9
+            // 
+            this.lblF9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF9.AutoSize = true;
+            this.lblF9.BackColor = System.Drawing.Color.Transparent;
+            this.lblF9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF9.Location = new System.Drawing.Point(25, 17);
+            this.lblF9.Name = "lblF9";
+            this.lblF9.Size = new System.Drawing.Size(23, 34);
+            this.lblF9.TabIndex = 145;
+            this.lblF9.Text = "*";
             // 
             // pnlF8
             // 
@@ -820,6 +1496,19 @@
             this.pnlF8.Size = new System.Drawing.Size(75, 70);
             this.pnlF8.TabIndex = 115;
             // 
+            // lblF8
+            // 
+            this.lblF8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF8.AutoSize = true;
+            this.lblF8.BackColor = System.Drawing.Color.Transparent;
+            this.lblF8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF8.Location = new System.Drawing.Point(25, 17);
+            this.lblF8.Name = "lblF8";
+            this.lblF8.Size = new System.Drawing.Size(23, 34);
+            this.lblF8.TabIndex = 145;
+            this.lblF8.Text = "*";
+            // 
             // pnlF7
             // 
             this.pnlF7.BackColor = System.Drawing.Color.White;
@@ -829,6 +1518,19 @@
             this.pnlF7.Name = "pnlF7";
             this.pnlF7.Size = new System.Drawing.Size(75, 70);
             this.pnlF7.TabIndex = 110;
+            // 
+            // lblF7
+            // 
+            this.lblF7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF7.AutoSize = true;
+            this.lblF7.BackColor = System.Drawing.Color.Transparent;
+            this.lblF7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF7.Location = new System.Drawing.Point(25, 17);
+            this.lblF7.Name = "lblF7";
+            this.lblF7.Size = new System.Drawing.Size(23, 34);
+            this.lblF7.TabIndex = 145;
+            this.lblF7.Text = "*";
             // 
             // pnlE12
             // 
@@ -840,6 +1542,19 @@
             this.pnlE12.Size = new System.Drawing.Size(75, 70);
             this.pnlE12.TabIndex = 108;
             // 
+            // lblE12
+            // 
+            this.lblE12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE12.AutoSize = true;
+            this.lblE12.BackColor = System.Drawing.Color.Transparent;
+            this.lblE12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE12.Location = new System.Drawing.Point(25, 17);
+            this.lblE12.Name = "lblE12";
+            this.lblE12.Size = new System.Drawing.Size(23, 34);
+            this.lblE12.TabIndex = 145;
+            this.lblE12.Text = "*";
+            // 
             // pnlE11
             // 
             this.pnlE11.BackColor = System.Drawing.Color.White;
@@ -849,6 +1564,19 @@
             this.pnlE11.Name = "pnlE11";
             this.pnlE11.Size = new System.Drawing.Size(75, 70);
             this.pnlE11.TabIndex = 107;
+            // 
+            // lblE11
+            // 
+            this.lblE11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE11.AutoSize = true;
+            this.lblE11.BackColor = System.Drawing.Color.Transparent;
+            this.lblE11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE11.Location = new System.Drawing.Point(25, 17);
+            this.lblE11.Name = "lblE11";
+            this.lblE11.Size = new System.Drawing.Size(23, 34);
+            this.lblE11.TabIndex = 145;
+            this.lblE11.Text = "*";
             // 
             // pnlE10
             // 
@@ -860,6 +1588,19 @@
             this.pnlE10.Size = new System.Drawing.Size(75, 70);
             this.pnlE10.TabIndex = 106;
             // 
+            // lblE10
+            // 
+            this.lblE10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE10.AutoSize = true;
+            this.lblE10.BackColor = System.Drawing.Color.Transparent;
+            this.lblE10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE10.Location = new System.Drawing.Point(25, 17);
+            this.lblE10.Name = "lblE10";
+            this.lblE10.Size = new System.Drawing.Size(23, 34);
+            this.lblE10.TabIndex = 145;
+            this.lblE10.Text = "*";
+            // 
             // pnlE9
             // 
             this.pnlE9.BackColor = System.Drawing.Color.White;
@@ -869,6 +1610,19 @@
             this.pnlE9.Name = "pnlE9";
             this.pnlE9.Size = new System.Drawing.Size(75, 70);
             this.pnlE9.TabIndex = 105;
+            // 
+            // lblE9
+            // 
+            this.lblE9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE9.AutoSize = true;
+            this.lblE9.BackColor = System.Drawing.Color.Transparent;
+            this.lblE9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE9.Location = new System.Drawing.Point(25, 17);
+            this.lblE9.Name = "lblE9";
+            this.lblE9.Size = new System.Drawing.Size(23, 34);
+            this.lblE9.TabIndex = 145;
+            this.lblE9.Text = "*";
             // 
             // pnlE8
             // 
@@ -880,6 +1634,19 @@
             this.pnlE8.Size = new System.Drawing.Size(75, 70);
             this.pnlE8.TabIndex = 109;
             // 
+            // lblE8
+            // 
+            this.lblE8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE8.AutoSize = true;
+            this.lblE8.BackColor = System.Drawing.Color.Transparent;
+            this.lblE8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE8.Location = new System.Drawing.Point(25, 17);
+            this.lblE8.Name = "lblE8";
+            this.lblE8.Size = new System.Drawing.Size(23, 34);
+            this.lblE8.TabIndex = 145;
+            this.lblE8.Text = "*";
+            // 
             // pnlE7
             // 
             this.pnlE7.BackColor = System.Drawing.Color.White;
@@ -889,6 +1656,19 @@
             this.pnlE7.Name = "pnlE7";
             this.pnlE7.Size = new System.Drawing.Size(75, 70);
             this.pnlE7.TabIndex = 104;
+            // 
+            // lblE7
+            // 
+            this.lblE7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE7.AutoSize = true;
+            this.lblE7.BackColor = System.Drawing.Color.Transparent;
+            this.lblE7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE7.Location = new System.Drawing.Point(25, 17);
+            this.lblE7.Name = "lblE7";
+            this.lblE7.Size = new System.Drawing.Size(23, 34);
+            this.lblE7.TabIndex = 145;
+            this.lblE7.Text = "*";
             // 
             // pnlD12
             // 
@@ -900,6 +1680,19 @@
             this.pnlD12.Size = new System.Drawing.Size(75, 70);
             this.pnlD12.TabIndex = 99;
             // 
+            // lblD12
+            // 
+            this.lblD12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD12.AutoSize = true;
+            this.lblD12.BackColor = System.Drawing.Color.Transparent;
+            this.lblD12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD12.Location = new System.Drawing.Point(25, 17);
+            this.lblD12.Name = "lblD12";
+            this.lblD12.Size = new System.Drawing.Size(23, 34);
+            this.lblD12.TabIndex = 145;
+            this.lblD12.Text = "*";
+            // 
             // pnlD11
             // 
             this.pnlD11.BackColor = System.Drawing.Color.White;
@@ -909,6 +1702,19 @@
             this.pnlD11.Name = "pnlD11";
             this.pnlD11.Size = new System.Drawing.Size(75, 70);
             this.pnlD11.TabIndex = 100;
+            // 
+            // lblD11
+            // 
+            this.lblD11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD11.AutoSize = true;
+            this.lblD11.BackColor = System.Drawing.Color.Transparent;
+            this.lblD11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD11.Location = new System.Drawing.Point(25, 17);
+            this.lblD11.Name = "lblD11";
+            this.lblD11.Size = new System.Drawing.Size(23, 34);
+            this.lblD11.TabIndex = 145;
+            this.lblD11.Text = "*";
             // 
             // pnlD10
             // 
@@ -920,6 +1726,19 @@
             this.pnlD10.Size = new System.Drawing.Size(75, 70);
             this.pnlD10.TabIndex = 101;
             // 
+            // lblD10
+            // 
+            this.lblD10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD10.AutoSize = true;
+            this.lblD10.BackColor = System.Drawing.Color.Transparent;
+            this.lblD10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD10.Location = new System.Drawing.Point(25, 17);
+            this.lblD10.Name = "lblD10";
+            this.lblD10.Size = new System.Drawing.Size(23, 34);
+            this.lblD10.TabIndex = 145;
+            this.lblD10.Text = "*";
+            // 
             // pnlD9
             // 
             this.pnlD9.BackColor = System.Drawing.Color.White;
@@ -929,6 +1748,19 @@
             this.pnlD9.Name = "pnlD9";
             this.pnlD9.Size = new System.Drawing.Size(75, 70);
             this.pnlD9.TabIndex = 102;
+            // 
+            // lblD9
+            // 
+            this.lblD9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD9.AutoSize = true;
+            this.lblD9.BackColor = System.Drawing.Color.Transparent;
+            this.lblD9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD9.Location = new System.Drawing.Point(25, 17);
+            this.lblD9.Name = "lblD9";
+            this.lblD9.Size = new System.Drawing.Size(23, 34);
+            this.lblD9.TabIndex = 145;
+            this.lblD9.Text = "*";
             // 
             // pnlD8
             // 
@@ -940,6 +1772,19 @@
             this.pnlD8.Size = new System.Drawing.Size(75, 70);
             this.pnlD8.TabIndex = 103;
             // 
+            // lblD8
+            // 
+            this.lblD8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD8.AutoSize = true;
+            this.lblD8.BackColor = System.Drawing.Color.Transparent;
+            this.lblD8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD8.Location = new System.Drawing.Point(25, 17);
+            this.lblD8.Name = "lblD8";
+            this.lblD8.Size = new System.Drawing.Size(23, 34);
+            this.lblD8.TabIndex = 145;
+            this.lblD8.Text = "*";
+            // 
             // pnlD7
             // 
             this.pnlD7.BackColor = System.Drawing.Color.White;
@@ -949,6 +1794,19 @@
             this.pnlD7.Name = "pnlD7";
             this.pnlD7.Size = new System.Drawing.Size(75, 70);
             this.pnlD7.TabIndex = 98;
+            // 
+            // lblD7
+            // 
+            this.lblD7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD7.AutoSize = true;
+            this.lblD7.BackColor = System.Drawing.Color.Transparent;
+            this.lblD7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD7.Location = new System.Drawing.Point(25, 17);
+            this.lblD7.Name = "lblD7";
+            this.lblD7.Size = new System.Drawing.Size(23, 34);
+            this.lblD7.TabIndex = 145;
+            this.lblD7.Text = "*";
             // 
             // pnlC12
             // 
@@ -960,6 +1818,19 @@
             this.pnlC12.Size = new System.Drawing.Size(75, 70);
             this.pnlC12.TabIndex = 93;
             // 
+            // lblC12
+            // 
+            this.lblC12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC12.AutoSize = true;
+            this.lblC12.BackColor = System.Drawing.Color.Transparent;
+            this.lblC12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC12.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC12.Location = new System.Drawing.Point(25, 17);
+            this.lblC12.Name = "lblC12";
+            this.lblC12.Size = new System.Drawing.Size(23, 34);
+            this.lblC12.TabIndex = 145;
+            this.lblC12.Text = "*";
+            // 
             // pnlC11
             // 
             this.pnlC11.BackColor = System.Drawing.Color.White;
@@ -969,6 +1840,19 @@
             this.pnlC11.Name = "pnlC11";
             this.pnlC11.Size = new System.Drawing.Size(75, 70);
             this.pnlC11.TabIndex = 94;
+            // 
+            // lblC11
+            // 
+            this.lblC11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC11.AutoSize = true;
+            this.lblC11.BackColor = System.Drawing.Color.Transparent;
+            this.lblC11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC11.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC11.Location = new System.Drawing.Point(25, 17);
+            this.lblC11.Name = "lblC11";
+            this.lblC11.Size = new System.Drawing.Size(23, 34);
+            this.lblC11.TabIndex = 145;
+            this.lblC11.Text = "*";
             // 
             // pnlC10
             // 
@@ -980,6 +1864,19 @@
             this.pnlC10.Size = new System.Drawing.Size(75, 70);
             this.pnlC10.TabIndex = 95;
             // 
+            // lblC10
+            // 
+            this.lblC10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC10.AutoSize = true;
+            this.lblC10.BackColor = System.Drawing.Color.Transparent;
+            this.lblC10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC10.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC10.Location = new System.Drawing.Point(25, 17);
+            this.lblC10.Name = "lblC10";
+            this.lblC10.Size = new System.Drawing.Size(23, 34);
+            this.lblC10.TabIndex = 145;
+            this.lblC10.Text = "*";
+            // 
             // pnlC9
             // 
             this.pnlC9.BackColor = System.Drawing.Color.White;
@@ -989,6 +1886,19 @@
             this.pnlC9.Name = "pnlC9";
             this.pnlC9.Size = new System.Drawing.Size(75, 70);
             this.pnlC9.TabIndex = 96;
+            // 
+            // lblC9
+            // 
+            this.lblC9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC9.AutoSize = true;
+            this.lblC9.BackColor = System.Drawing.Color.Transparent;
+            this.lblC9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC9.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC9.Location = new System.Drawing.Point(25, 17);
+            this.lblC9.Name = "lblC9";
+            this.lblC9.Size = new System.Drawing.Size(23, 34);
+            this.lblC9.TabIndex = 145;
+            this.lblC9.Text = "*";
             // 
             // pnlC8
             // 
@@ -1000,6 +1910,19 @@
             this.pnlC8.Size = new System.Drawing.Size(75, 70);
             this.pnlC8.TabIndex = 97;
             // 
+            // lblC8
+            // 
+            this.lblC8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC8.AutoSize = true;
+            this.lblC8.BackColor = System.Drawing.Color.Transparent;
+            this.lblC8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC8.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC8.Location = new System.Drawing.Point(25, 17);
+            this.lblC8.Name = "lblC8";
+            this.lblC8.Size = new System.Drawing.Size(23, 34);
+            this.lblC8.TabIndex = 145;
+            this.lblC8.Text = "*";
+            // 
             // pnlC7
             // 
             this.pnlC7.BackColor = System.Drawing.Color.White;
@@ -1009,6 +1932,19 @@
             this.pnlC7.Name = "pnlC7";
             this.pnlC7.Size = new System.Drawing.Size(75, 70);
             this.pnlC7.TabIndex = 92;
+            // 
+            // lblC7
+            // 
+            this.lblC7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC7.AutoSize = true;
+            this.lblC7.BackColor = System.Drawing.Color.Transparent;
+            this.lblC7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC7.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC7.Location = new System.Drawing.Point(25, 17);
+            this.lblC7.Name = "lblC7";
+            this.lblC7.Size = new System.Drawing.Size(23, 34);
+            this.lblC7.TabIndex = 145;
+            this.lblC7.Text = "*";
             // 
             // pnlF13
             // 
@@ -1020,6 +1956,19 @@
             this.pnlF13.Size = new System.Drawing.Size(75, 70);
             this.pnlF13.TabIndex = 121;
             // 
+            // lblF13
+            // 
+            this.lblF13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblF13.AutoSize = true;
+            this.lblF13.BackColor = System.Drawing.Color.Transparent;
+            this.lblF13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblF13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblF13.Location = new System.Drawing.Point(25, 17);
+            this.lblF13.Name = "lblF13";
+            this.lblF13.Size = new System.Drawing.Size(23, 34);
+            this.lblF13.TabIndex = 145;
+            this.lblF13.Text = "*";
+            // 
             // pnlE13
             // 
             this.pnlE13.BackColor = System.Drawing.Color.White;
@@ -1029,6 +1978,19 @@
             this.pnlE13.Name = "pnlE13";
             this.pnlE13.Size = new System.Drawing.Size(75, 70);
             this.pnlE13.TabIndex = 120;
+            // 
+            // lblE13
+            // 
+            this.lblE13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblE13.AutoSize = true;
+            this.lblE13.BackColor = System.Drawing.Color.Transparent;
+            this.lblE13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblE13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblE13.Location = new System.Drawing.Point(25, 17);
+            this.lblE13.Name = "lblE13";
+            this.lblE13.Size = new System.Drawing.Size(23, 34);
+            this.lblE13.TabIndex = 145;
+            this.lblE13.Text = "*";
             // 
             // pnlD13
             // 
@@ -1040,6 +2002,19 @@
             this.pnlD13.Size = new System.Drawing.Size(75, 70);
             this.pnlD13.TabIndex = 119;
             // 
+            // lblD13
+            // 
+            this.lblD13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblD13.AutoSize = true;
+            this.lblD13.BackColor = System.Drawing.Color.Transparent;
+            this.lblD13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblD13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblD13.Location = new System.Drawing.Point(25, 17);
+            this.lblD13.Name = "lblD13";
+            this.lblD13.Size = new System.Drawing.Size(23, 34);
+            this.lblD13.TabIndex = 145;
+            this.lblD13.Text = "*";
+            // 
             // pnlC13
             // 
             this.pnlC13.BackColor = System.Drawing.Color.White;
@@ -1049,6 +2024,19 @@
             this.pnlC13.Name = "pnlC13";
             this.pnlC13.Size = new System.Drawing.Size(75, 70);
             this.pnlC13.TabIndex = 118;
+            // 
+            // lblC13
+            // 
+            this.lblC13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblC13.AutoSize = true;
+            this.lblC13.BackColor = System.Drawing.Color.Transparent;
+            this.lblC13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblC13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblC13.Location = new System.Drawing.Point(25, 17);
+            this.lblC13.Name = "lblC13";
+            this.lblC13.Size = new System.Drawing.Size(23, 34);
+            this.lblC13.TabIndex = 145;
+            this.lblC13.Text = "*";
             // 
             // pnlB13
             // 
@@ -1060,6 +2048,19 @@
             this.pnlB13.Size = new System.Drawing.Size(75, 70);
             this.pnlB13.TabIndex = 117;
             // 
+            // lblB13
+            // 
+            this.lblB13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblB13.AutoSize = true;
+            this.lblB13.BackColor = System.Drawing.Color.Transparent;
+            this.lblB13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblB13.Location = new System.Drawing.Point(25, 17);
+            this.lblB13.Name = "lblB13";
+            this.lblB13.Size = new System.Drawing.Size(23, 34);
+            this.lblB13.TabIndex = 145;
+            this.lblB13.Text = "*";
+            // 
             // pnlA13
             // 
             this.pnlA13.BackColor = System.Drawing.Color.White;
@@ -1069,6 +2070,19 @@
             this.pnlA13.Name = "pnlA13";
             this.pnlA13.Size = new System.Drawing.Size(75, 70);
             this.pnlA13.TabIndex = 116;
+            // 
+            // lblA13
+            // 
+            this.lblA13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblA13.AutoSize = true;
+            this.lblA13.BackColor = System.Drawing.Color.Transparent;
+            this.lblA13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA13.ForeColor = System.Drawing.Color.Maroon;
+            this.lblA13.Location = new System.Drawing.Point(25, 17);
+            this.lblA13.Name = "lblA13";
+            this.lblA13.Size = new System.Drawing.Size(23, 34);
+            this.lblA13.TabIndex = 145;
+            this.lblA13.Text = "*";
             // 
             // label2
             // 
@@ -1110,11 +2124,11 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Impact", 30F);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(490, 9);
+            this.label1.Location = new System.Drawing.Point(552, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(402, 48);
+            this.label1.Size = new System.Drawing.Size(257, 48);
             this.label1.TabIndex = 139;
-            this.label1.Text = "Airplane Seating Queue";
+            this.label1.Text = "Airplane Seats";
             // 
             // btnBuy
             // 
@@ -1391,1021 +2405,7 @@
             this.label100.TabIndex = 161;
             this.label100.Text = "Row 13";
             // 
-            // lblA1
-            // 
-            this.lblA1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA1.AutoSize = true;
-            this.lblA1.BackColor = System.Drawing.Color.Transparent;
-            this.lblA1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA1.Location = new System.Drawing.Point(22, 17);
-            this.lblA1.Name = "lblA1";
-            this.lblA1.Size = new System.Drawing.Size(23, 34);
-            this.lblA1.TabIndex = 144;
-            this.lblA1.Text = "*";
-            // 
-            // lblA2
-            // 
-            this.lblA2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA2.AutoSize = true;
-            this.lblA2.BackColor = System.Drawing.Color.Transparent;
-            this.lblA2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA2.Location = new System.Drawing.Point(25, 17);
-            this.lblA2.Name = "lblA2";
-            this.lblA2.Size = new System.Drawing.Size(23, 34);
-            this.lblA2.TabIndex = 145;
-            this.lblA2.Text = "*";
-            // 
-            // lblA3
-            // 
-            this.lblA3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA3.AutoSize = true;
-            this.lblA3.BackColor = System.Drawing.Color.Transparent;
-            this.lblA3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA3.Location = new System.Drawing.Point(25, 17);
-            this.lblA3.Name = "lblA3";
-            this.lblA3.Size = new System.Drawing.Size(23, 34);
-            this.lblA3.TabIndex = 145;
-            this.lblA3.Text = "*";
-            // 
-            // lblA4
-            // 
-            this.lblA4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA4.AutoSize = true;
-            this.lblA4.BackColor = System.Drawing.Color.Transparent;
-            this.lblA4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA4.Location = new System.Drawing.Point(25, 17);
-            this.lblA4.Name = "lblA4";
-            this.lblA4.Size = new System.Drawing.Size(23, 34);
-            this.lblA4.TabIndex = 145;
-            this.lblA4.Text = "*";
-            // 
-            // lblA5
-            // 
-            this.lblA5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA5.AutoSize = true;
-            this.lblA5.BackColor = System.Drawing.Color.Transparent;
-            this.lblA5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA5.Location = new System.Drawing.Point(25, 17);
-            this.lblA5.Name = "lblA5";
-            this.lblA5.Size = new System.Drawing.Size(23, 34);
-            this.lblA5.TabIndex = 145;
-            this.lblA5.Text = "*";
-            // 
-            // lblA6
-            // 
-            this.lblA6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA6.AutoSize = true;
-            this.lblA6.BackColor = System.Drawing.Color.Transparent;
-            this.lblA6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA6.Location = new System.Drawing.Point(25, 17);
-            this.lblA6.Name = "lblA6";
-            this.lblA6.Size = new System.Drawing.Size(23, 34);
-            this.lblA6.TabIndex = 145;
-            this.lblA6.Text = "*";
-            // 
-            // lblA7
-            // 
-            this.lblA7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA7.AutoSize = true;
-            this.lblA7.BackColor = System.Drawing.Color.Transparent;
-            this.lblA7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA7.Location = new System.Drawing.Point(25, 17);
-            this.lblA7.Name = "lblA7";
-            this.lblA7.Size = new System.Drawing.Size(23, 34);
-            this.lblA7.TabIndex = 145;
-            this.lblA7.Text = "*";
-            // 
-            // lblA8
-            // 
-            this.lblA8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA8.AutoSize = true;
-            this.lblA8.BackColor = System.Drawing.Color.Transparent;
-            this.lblA8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA8.Location = new System.Drawing.Point(25, 17);
-            this.lblA8.Name = "lblA8";
-            this.lblA8.Size = new System.Drawing.Size(23, 34);
-            this.lblA8.TabIndex = 145;
-            this.lblA8.Text = "*";
-            // 
-            // lblA9
-            // 
-            this.lblA9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA9.AutoSize = true;
-            this.lblA9.BackColor = System.Drawing.Color.Transparent;
-            this.lblA9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA9.Location = new System.Drawing.Point(25, 17);
-            this.lblA9.Name = "lblA9";
-            this.lblA9.Size = new System.Drawing.Size(23, 34);
-            this.lblA9.TabIndex = 145;
-            this.lblA9.Text = "*";
-            // 
-            // lblA10
-            // 
-            this.lblA10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA10.AutoSize = true;
-            this.lblA10.BackColor = System.Drawing.Color.Transparent;
-            this.lblA10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA10.Location = new System.Drawing.Point(25, 17);
-            this.lblA10.Name = "lblA10";
-            this.lblA10.Size = new System.Drawing.Size(23, 34);
-            this.lblA10.TabIndex = 145;
-            this.lblA10.Text = "*";
-            // 
-            // lblA11
-            // 
-            this.lblA11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA11.AutoSize = true;
-            this.lblA11.BackColor = System.Drawing.Color.Transparent;
-            this.lblA11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA11.Location = new System.Drawing.Point(25, 17);
-            this.lblA11.Name = "lblA11";
-            this.lblA11.Size = new System.Drawing.Size(23, 34);
-            this.lblA11.TabIndex = 145;
-            this.lblA11.Text = "*";
-            // 
-            // lblA12
-            // 
-            this.lblA12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA12.AutoSize = true;
-            this.lblA12.BackColor = System.Drawing.Color.Transparent;
-            this.lblA12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA12.Location = new System.Drawing.Point(25, 17);
-            this.lblA12.Name = "lblA12";
-            this.lblA12.Size = new System.Drawing.Size(23, 34);
-            this.lblA12.TabIndex = 145;
-            this.lblA12.Text = "*";
-            // 
-            // lblA13
-            // 
-            this.lblA13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblA13.AutoSize = true;
-            this.lblA13.BackColor = System.Drawing.Color.Transparent;
-            this.lblA13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblA13.Location = new System.Drawing.Point(25, 17);
-            this.lblA13.Name = "lblA13";
-            this.lblA13.Size = new System.Drawing.Size(23, 34);
-            this.lblA13.TabIndex = 145;
-            this.lblA13.Text = "*";
-            // 
-            // lblB13
-            // 
-            this.lblB13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB13.AutoSize = true;
-            this.lblB13.BackColor = System.Drawing.Color.Transparent;
-            this.lblB13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB13.Location = new System.Drawing.Point(25, 17);
-            this.lblB13.Name = "lblB13";
-            this.lblB13.Size = new System.Drawing.Size(23, 34);
-            this.lblB13.TabIndex = 145;
-            this.lblB13.Text = "*";
-            // 
-            // lblB12
-            // 
-            this.lblB12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB12.AutoSize = true;
-            this.lblB12.BackColor = System.Drawing.Color.Transparent;
-            this.lblB12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB12.Location = new System.Drawing.Point(25, 17);
-            this.lblB12.Name = "lblB12";
-            this.lblB12.Size = new System.Drawing.Size(23, 34);
-            this.lblB12.TabIndex = 145;
-            this.lblB12.Text = "*";
-            // 
-            // lblB11
-            // 
-            this.lblB11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB11.AutoSize = true;
-            this.lblB11.BackColor = System.Drawing.Color.Transparent;
-            this.lblB11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB11.Location = new System.Drawing.Point(25, 17);
-            this.lblB11.Name = "lblB11";
-            this.lblB11.Size = new System.Drawing.Size(23, 34);
-            this.lblB11.TabIndex = 145;
-            this.lblB11.Text = "*";
-            // 
-            // lblB10
-            // 
-            this.lblB10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB10.AutoSize = true;
-            this.lblB10.BackColor = System.Drawing.Color.Transparent;
-            this.lblB10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB10.Location = new System.Drawing.Point(25, 17);
-            this.lblB10.Name = "lblB10";
-            this.lblB10.Size = new System.Drawing.Size(23, 34);
-            this.lblB10.TabIndex = 145;
-            this.lblB10.Text = "*";
-            // 
-            // lblC10
-            // 
-            this.lblC10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC10.AutoSize = true;
-            this.lblC10.BackColor = System.Drawing.Color.Transparent;
-            this.lblC10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC10.Location = new System.Drawing.Point(25, 17);
-            this.lblC10.Name = "lblC10";
-            this.lblC10.Size = new System.Drawing.Size(23, 34);
-            this.lblC10.TabIndex = 145;
-            this.lblC10.Text = "*";
-            // 
-            // lblC11
-            // 
-            this.lblC11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC11.AutoSize = true;
-            this.lblC11.BackColor = System.Drawing.Color.Transparent;
-            this.lblC11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC11.Location = new System.Drawing.Point(25, 17);
-            this.lblC11.Name = "lblC11";
-            this.lblC11.Size = new System.Drawing.Size(23, 34);
-            this.lblC11.TabIndex = 145;
-            this.lblC11.Text = "*";
-            // 
-            // lblC12
-            // 
-            this.lblC12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC12.AutoSize = true;
-            this.lblC12.BackColor = System.Drawing.Color.Transparent;
-            this.lblC12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC12.Location = new System.Drawing.Point(25, 17);
-            this.lblC12.Name = "lblC12";
-            this.lblC12.Size = new System.Drawing.Size(23, 34);
-            this.lblC12.TabIndex = 145;
-            this.lblC12.Text = "*";
-            // 
-            // lblC13
-            // 
-            this.lblC13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC13.AutoSize = true;
-            this.lblC13.BackColor = System.Drawing.Color.Transparent;
-            this.lblC13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC13.Location = new System.Drawing.Point(25, 17);
-            this.lblC13.Name = "lblC13";
-            this.lblC13.Size = new System.Drawing.Size(23, 34);
-            this.lblC13.TabIndex = 145;
-            this.lblC13.Text = "*";
-            // 
-            // lblD13
-            // 
-            this.lblD13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD13.AutoSize = true;
-            this.lblD13.BackColor = System.Drawing.Color.Transparent;
-            this.lblD13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD13.Location = new System.Drawing.Point(25, 17);
-            this.lblD13.Name = "lblD13";
-            this.lblD13.Size = new System.Drawing.Size(23, 34);
-            this.lblD13.TabIndex = 145;
-            this.lblD13.Text = "*";
-            // 
-            // lblD12
-            // 
-            this.lblD12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD12.AutoSize = true;
-            this.lblD12.BackColor = System.Drawing.Color.Transparent;
-            this.lblD12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD12.Location = new System.Drawing.Point(25, 17);
-            this.lblD12.Name = "lblD12";
-            this.lblD12.Size = new System.Drawing.Size(23, 34);
-            this.lblD12.TabIndex = 145;
-            this.lblD12.Text = "*";
-            // 
-            // lblD11
-            // 
-            this.lblD11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD11.AutoSize = true;
-            this.lblD11.BackColor = System.Drawing.Color.Transparent;
-            this.lblD11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD11.Location = new System.Drawing.Point(25, 17);
-            this.lblD11.Name = "lblD11";
-            this.lblD11.Size = new System.Drawing.Size(23, 34);
-            this.lblD11.TabIndex = 145;
-            this.lblD11.Text = "*";
-            // 
-            // lblD10
-            // 
-            this.lblD10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD10.AutoSize = true;
-            this.lblD10.BackColor = System.Drawing.Color.Transparent;
-            this.lblD10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD10.Location = new System.Drawing.Point(25, 17);
-            this.lblD10.Name = "lblD10";
-            this.lblD10.Size = new System.Drawing.Size(23, 34);
-            this.lblD10.TabIndex = 145;
-            this.lblD10.Text = "*";
-            // 
-            // lblE10
-            // 
-            this.lblE10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE10.AutoSize = true;
-            this.lblE10.BackColor = System.Drawing.Color.Transparent;
-            this.lblE10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE10.Location = new System.Drawing.Point(25, 17);
-            this.lblE10.Name = "lblE10";
-            this.lblE10.Size = new System.Drawing.Size(23, 34);
-            this.lblE10.TabIndex = 145;
-            this.lblE10.Text = "*";
-            // 
-            // lblE11
-            // 
-            this.lblE11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE11.AutoSize = true;
-            this.lblE11.BackColor = System.Drawing.Color.Transparent;
-            this.lblE11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE11.Location = new System.Drawing.Point(25, 17);
-            this.lblE11.Name = "lblE11";
-            this.lblE11.Size = new System.Drawing.Size(23, 34);
-            this.lblE11.TabIndex = 145;
-            this.lblE11.Text = "*";
-            // 
-            // lblE12
-            // 
-            this.lblE12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE12.AutoSize = true;
-            this.lblE12.BackColor = System.Drawing.Color.Transparent;
-            this.lblE12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE12.Location = new System.Drawing.Point(25, 17);
-            this.lblE12.Name = "lblE12";
-            this.lblE12.Size = new System.Drawing.Size(23, 34);
-            this.lblE12.TabIndex = 145;
-            this.lblE12.Text = "*";
-            // 
-            // lblF13
-            // 
-            this.lblF13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF13.AutoSize = true;
-            this.lblF13.BackColor = System.Drawing.Color.Transparent;
-            this.lblF13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF13.Location = new System.Drawing.Point(25, 17);
-            this.lblF13.Name = "lblF13";
-            this.lblF13.Size = new System.Drawing.Size(23, 34);
-            this.lblF13.TabIndex = 145;
-            this.lblF13.Text = "*";
-            // 
-            // lblE13
-            // 
-            this.lblE13.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE13.AutoSize = true;
-            this.lblE13.BackColor = System.Drawing.Color.Transparent;
-            this.lblE13.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE13.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE13.Location = new System.Drawing.Point(25, 17);
-            this.lblE13.Name = "lblE13";
-            this.lblE13.Size = new System.Drawing.Size(23, 34);
-            this.lblE13.TabIndex = 145;
-            this.lblE13.Text = "*";
-            // 
-            // lblF12
-            // 
-            this.lblF12.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF12.AutoSize = true;
-            this.lblF12.BackColor = System.Drawing.Color.Transparent;
-            this.lblF12.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF12.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF12.Location = new System.Drawing.Point(25, 17);
-            this.lblF12.Name = "lblF12";
-            this.lblF12.Size = new System.Drawing.Size(23, 34);
-            this.lblF12.TabIndex = 145;
-            this.lblF12.Text = "*";
-            // 
-            // lblF11
-            // 
-            this.lblF11.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF11.AutoSize = true;
-            this.lblF11.BackColor = System.Drawing.Color.Transparent;
-            this.lblF11.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF11.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF11.Location = new System.Drawing.Point(25, 17);
-            this.lblF11.Name = "lblF11";
-            this.lblF11.Size = new System.Drawing.Size(23, 34);
-            this.lblF11.TabIndex = 145;
-            this.lblF11.Text = "*";
-            // 
-            // lblF10
-            // 
-            this.lblF10.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF10.AutoSize = true;
-            this.lblF10.BackColor = System.Drawing.Color.Transparent;
-            this.lblF10.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF10.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF10.Location = new System.Drawing.Point(25, 17);
-            this.lblF10.Name = "lblF10";
-            this.lblF10.Size = new System.Drawing.Size(23, 34);
-            this.lblF10.TabIndex = 145;
-            this.lblF10.Text = "*";
-            // 
-            // lblB9
-            // 
-            this.lblB9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB9.AutoSize = true;
-            this.lblB9.BackColor = System.Drawing.Color.Transparent;
-            this.lblB9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB9.Location = new System.Drawing.Point(25, 17);
-            this.lblB9.Name = "lblB9";
-            this.lblB9.Size = new System.Drawing.Size(23, 34);
-            this.lblB9.TabIndex = 145;
-            this.lblB9.Text = "*";
-            // 
-            // lblB8
-            // 
-            this.lblB8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB8.AutoSize = true;
-            this.lblB8.BackColor = System.Drawing.Color.Transparent;
-            this.lblB8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB8.Location = new System.Drawing.Point(25, 17);
-            this.lblB8.Name = "lblB8";
-            this.lblB8.Size = new System.Drawing.Size(23, 34);
-            this.lblB8.TabIndex = 145;
-            this.lblB8.Text = "*";
-            // 
-            // lblB7
-            // 
-            this.lblB7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB7.AutoSize = true;
-            this.lblB7.BackColor = System.Drawing.Color.Transparent;
-            this.lblB7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB7.Location = new System.Drawing.Point(25, 17);
-            this.lblB7.Name = "lblB7";
-            this.lblB7.Size = new System.Drawing.Size(23, 34);
-            this.lblB7.TabIndex = 145;
-            this.lblB7.Text = "*";
-            // 
-            // lblB6
-            // 
-            this.lblB6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB6.AutoSize = true;
-            this.lblB6.BackColor = System.Drawing.Color.Transparent;
-            this.lblB6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB6.Location = new System.Drawing.Point(25, 17);
-            this.lblB6.Name = "lblB6";
-            this.lblB6.Size = new System.Drawing.Size(23, 34);
-            this.lblB6.TabIndex = 145;
-            this.lblB6.Text = "*";
-            // 
-            // lblB5
-            // 
-            this.lblB5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB5.AutoSize = true;
-            this.lblB5.BackColor = System.Drawing.Color.Transparent;
-            this.lblB5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB5.Location = new System.Drawing.Point(25, 17);
-            this.lblB5.Name = "lblB5";
-            this.lblB5.Size = new System.Drawing.Size(23, 34);
-            this.lblB5.TabIndex = 145;
-            this.lblB5.Text = "*";
-            // 
-            // lblC5
-            // 
-            this.lblC5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC5.AutoSize = true;
-            this.lblC5.BackColor = System.Drawing.Color.Transparent;
-            this.lblC5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC5.Location = new System.Drawing.Point(25, 17);
-            this.lblC5.Name = "lblC5";
-            this.lblC5.Size = new System.Drawing.Size(23, 34);
-            this.lblC5.TabIndex = 145;
-            this.lblC5.Text = "*";
-            // 
-            // lblC6
-            // 
-            this.lblC6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC6.AutoSize = true;
-            this.lblC6.BackColor = System.Drawing.Color.Transparent;
-            this.lblC6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC6.Location = new System.Drawing.Point(25, 17);
-            this.lblC6.Name = "lblC6";
-            this.lblC6.Size = new System.Drawing.Size(23, 34);
-            this.lblC6.TabIndex = 145;
-            this.lblC6.Text = "*";
-            // 
-            // lblC7
-            // 
-            this.lblC7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC7.AutoSize = true;
-            this.lblC7.BackColor = System.Drawing.Color.Transparent;
-            this.lblC7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC7.Location = new System.Drawing.Point(25, 17);
-            this.lblC7.Name = "lblC7";
-            this.lblC7.Size = new System.Drawing.Size(23, 34);
-            this.lblC7.TabIndex = 145;
-            this.lblC7.Text = "*";
-            // 
-            // lblC8
-            // 
-            this.lblC8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC8.AutoSize = true;
-            this.lblC8.BackColor = System.Drawing.Color.Transparent;
-            this.lblC8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC8.Location = new System.Drawing.Point(25, 17);
-            this.lblC8.Name = "lblC8";
-            this.lblC8.Size = new System.Drawing.Size(23, 34);
-            this.lblC8.TabIndex = 145;
-            this.lblC8.Text = "*";
-            // 
-            // lblC9
-            // 
-            this.lblC9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC9.AutoSize = true;
-            this.lblC9.BackColor = System.Drawing.Color.Transparent;
-            this.lblC9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC9.Location = new System.Drawing.Point(25, 17);
-            this.lblC9.Name = "lblC9";
-            this.lblC9.Size = new System.Drawing.Size(23, 34);
-            this.lblC9.TabIndex = 145;
-            this.lblC9.Text = "*";
-            // 
-            // lblD9
-            // 
-            this.lblD9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD9.AutoSize = true;
-            this.lblD9.BackColor = System.Drawing.Color.Transparent;
-            this.lblD9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD9.Location = new System.Drawing.Point(25, 17);
-            this.lblD9.Name = "lblD9";
-            this.lblD9.Size = new System.Drawing.Size(23, 34);
-            this.lblD9.TabIndex = 145;
-            this.lblD9.Text = "*";
-            // 
-            // lblD8
-            // 
-            this.lblD8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD8.AutoSize = true;
-            this.lblD8.BackColor = System.Drawing.Color.Transparent;
-            this.lblD8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD8.Location = new System.Drawing.Point(25, 17);
-            this.lblD8.Name = "lblD8";
-            this.lblD8.Size = new System.Drawing.Size(23, 34);
-            this.lblD8.TabIndex = 145;
-            this.lblD8.Text = "*";
-            // 
-            // lblD7
-            // 
-            this.lblD7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD7.AutoSize = true;
-            this.lblD7.BackColor = System.Drawing.Color.Transparent;
-            this.lblD7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD7.Location = new System.Drawing.Point(25, 17);
-            this.lblD7.Name = "lblD7";
-            this.lblD7.Size = new System.Drawing.Size(23, 34);
-            this.lblD7.TabIndex = 145;
-            this.lblD7.Text = "*";
-            // 
-            // lblD6
-            // 
-            this.lblD6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD6.AutoSize = true;
-            this.lblD6.BackColor = System.Drawing.Color.Transparent;
-            this.lblD6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD6.Location = new System.Drawing.Point(25, 17);
-            this.lblD6.Name = "lblD6";
-            this.lblD6.Size = new System.Drawing.Size(23, 34);
-            this.lblD6.TabIndex = 145;
-            this.lblD6.Text = "*";
-            // 
-            // lblD5
-            // 
-            this.lblD5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD5.AutoSize = true;
-            this.lblD5.BackColor = System.Drawing.Color.Transparent;
-            this.lblD5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD5.Location = new System.Drawing.Point(25, 17);
-            this.lblD5.Name = "lblD5";
-            this.lblD5.Size = new System.Drawing.Size(23, 34);
-            this.lblD5.TabIndex = 145;
-            this.lblD5.Text = "*";
-            // 
-            // lblE5
-            // 
-            this.lblE5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE5.AutoSize = true;
-            this.lblE5.BackColor = System.Drawing.Color.Transparent;
-            this.lblE5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE5.Location = new System.Drawing.Point(25, 17);
-            this.lblE5.Name = "lblE5";
-            this.lblE5.Size = new System.Drawing.Size(23, 34);
-            this.lblE5.TabIndex = 145;
-            this.lblE5.Text = "*";
-            // 
-            // lblE6
-            // 
-            this.lblE6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE6.AutoSize = true;
-            this.lblE6.BackColor = System.Drawing.Color.Transparent;
-            this.lblE6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE6.Location = new System.Drawing.Point(25, 17);
-            this.lblE6.Name = "lblE6";
-            this.lblE6.Size = new System.Drawing.Size(23, 34);
-            this.lblE6.TabIndex = 145;
-            this.lblE6.Text = "*";
-            // 
-            // lblE7
-            // 
-            this.lblE7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE7.AutoSize = true;
-            this.lblE7.BackColor = System.Drawing.Color.Transparent;
-            this.lblE7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE7.Location = new System.Drawing.Point(25, 17);
-            this.lblE7.Name = "lblE7";
-            this.lblE7.Size = new System.Drawing.Size(23, 34);
-            this.lblE7.TabIndex = 145;
-            this.lblE7.Text = "*";
-            // 
-            // lblE8
-            // 
-            this.lblE8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE8.AutoSize = true;
-            this.lblE8.BackColor = System.Drawing.Color.Transparent;
-            this.lblE8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE8.Location = new System.Drawing.Point(25, 17);
-            this.lblE8.Name = "lblE8";
-            this.lblE8.Size = new System.Drawing.Size(23, 34);
-            this.lblE8.TabIndex = 145;
-            this.lblE8.Text = "*";
-            // 
-            // lblF8
-            // 
-            this.lblF8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF8.AutoSize = true;
-            this.lblF8.BackColor = System.Drawing.Color.Transparent;
-            this.lblF8.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF8.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF8.Location = new System.Drawing.Point(25, 17);
-            this.lblF8.Name = "lblF8";
-            this.lblF8.Size = new System.Drawing.Size(23, 34);
-            this.lblF8.TabIndex = 145;
-            this.lblF8.Text = "*";
-            // 
-            // lblF9
-            // 
-            this.lblF9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF9.AutoSize = true;
-            this.lblF9.BackColor = System.Drawing.Color.Transparent;
-            this.lblF9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF9.Location = new System.Drawing.Point(25, 17);
-            this.lblF9.Name = "lblF9";
-            this.lblF9.Size = new System.Drawing.Size(23, 34);
-            this.lblF9.TabIndex = 145;
-            this.lblF9.Text = "*";
-            // 
-            // lblE9
-            // 
-            this.lblE9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE9.AutoSize = true;
-            this.lblE9.BackColor = System.Drawing.Color.Transparent;
-            this.lblE9.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE9.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE9.Location = new System.Drawing.Point(25, 17);
-            this.lblE9.Name = "lblE9";
-            this.lblE9.Size = new System.Drawing.Size(23, 34);
-            this.lblE9.TabIndex = 145;
-            this.lblE9.Text = "*";
-            // 
-            // lblF7
-            // 
-            this.lblF7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF7.AutoSize = true;
-            this.lblF7.BackColor = System.Drawing.Color.Transparent;
-            this.lblF7.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF7.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF7.Location = new System.Drawing.Point(25, 17);
-            this.lblF7.Name = "lblF7";
-            this.lblF7.Size = new System.Drawing.Size(23, 34);
-            this.lblF7.TabIndex = 145;
-            this.lblF7.Text = "*";
-            // 
-            // lblF6
-            // 
-            this.lblF6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF6.AutoSize = true;
-            this.lblF6.BackColor = System.Drawing.Color.Transparent;
-            this.lblF6.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF6.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF6.Location = new System.Drawing.Point(25, 17);
-            this.lblF6.Name = "lblF6";
-            this.lblF6.Size = new System.Drawing.Size(23, 34);
-            this.lblF6.TabIndex = 145;
-            this.lblF6.Text = "*";
-            // 
-            // lblF5
-            // 
-            this.lblF5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF5.AutoSize = true;
-            this.lblF5.BackColor = System.Drawing.Color.Transparent;
-            this.lblF5.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF5.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF5.Location = new System.Drawing.Point(25, 17);
-            this.lblF5.Name = "lblF5";
-            this.lblF5.Size = new System.Drawing.Size(23, 34);
-            this.lblF5.TabIndex = 145;
-            this.lblF5.Text = "*";
-            // 
-            // lblB4
-            // 
-            this.lblB4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB4.AutoSize = true;
-            this.lblB4.BackColor = System.Drawing.Color.Transparent;
-            this.lblB4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB4.Location = new System.Drawing.Point(25, 17);
-            this.lblB4.Name = "lblB4";
-            this.lblB4.Size = new System.Drawing.Size(23, 34);
-            this.lblB4.TabIndex = 145;
-            this.lblB4.Text = "*";
-            // 
-            // lblC4
-            // 
-            this.lblC4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC4.AutoSize = true;
-            this.lblC4.BackColor = System.Drawing.Color.Transparent;
-            this.lblC4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC4.Location = new System.Drawing.Point(25, 17);
-            this.lblC4.Name = "lblC4";
-            this.lblC4.Size = new System.Drawing.Size(23, 34);
-            this.lblC4.TabIndex = 145;
-            this.lblC4.Text = "*";
-            // 
-            // lblD4
-            // 
-            this.lblD4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD4.AutoSize = true;
-            this.lblD4.BackColor = System.Drawing.Color.Transparent;
-            this.lblD4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD4.Location = new System.Drawing.Point(25, 17);
-            this.lblD4.Name = "lblD4";
-            this.lblD4.Size = new System.Drawing.Size(23, 34);
-            this.lblD4.TabIndex = 145;
-            this.lblD4.Text = "*";
-            // 
-            // lblE4
-            // 
-            this.lblE4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE4.AutoSize = true;
-            this.lblE4.BackColor = System.Drawing.Color.Transparent;
-            this.lblE4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE4.Location = new System.Drawing.Point(25, 17);
-            this.lblE4.Name = "lblE4";
-            this.lblE4.Size = new System.Drawing.Size(23, 34);
-            this.lblE4.TabIndex = 145;
-            this.lblE4.Text = "*";
-            // 
-            // lblF4
-            // 
-            this.lblF4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF4.AutoSize = true;
-            this.lblF4.BackColor = System.Drawing.Color.Transparent;
-            this.lblF4.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF4.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF4.Location = new System.Drawing.Point(25, 17);
-            this.lblF4.Name = "lblF4";
-            this.lblF4.Size = new System.Drawing.Size(23, 34);
-            this.lblF4.TabIndex = 145;
-            this.lblF4.Text = "*";
-            // 
-            // lblF3
-            // 
-            this.lblF3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF3.AutoSize = true;
-            this.lblF3.BackColor = System.Drawing.Color.Transparent;
-            this.lblF3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF3.Location = new System.Drawing.Point(25, 17);
-            this.lblF3.Name = "lblF3";
-            this.lblF3.Size = new System.Drawing.Size(23, 34);
-            this.lblF3.TabIndex = 145;
-            this.lblF3.Text = "*";
-            // 
-            // lblE3
-            // 
-            this.lblE3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE3.AutoSize = true;
-            this.lblE3.BackColor = System.Drawing.Color.Transparent;
-            this.lblE3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE3.Location = new System.Drawing.Point(25, 17);
-            this.lblE3.Name = "lblE3";
-            this.lblE3.Size = new System.Drawing.Size(23, 34);
-            this.lblE3.TabIndex = 145;
-            this.lblE3.Text = "*";
-            // 
-            // lblD3
-            // 
-            this.lblD3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD3.AutoSize = true;
-            this.lblD3.BackColor = System.Drawing.Color.Transparent;
-            this.lblD3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD3.Location = new System.Drawing.Point(25, 17);
-            this.lblD3.Name = "lblD3";
-            this.lblD3.Size = new System.Drawing.Size(23, 34);
-            this.lblD3.TabIndex = 145;
-            this.lblD3.Text = "*";
-            // 
-            // lblC3
-            // 
-            this.lblC3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC3.AutoSize = true;
-            this.lblC3.BackColor = System.Drawing.Color.Transparent;
-            this.lblC3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC3.Location = new System.Drawing.Point(25, 17);
-            this.lblC3.Name = "lblC3";
-            this.lblC3.Size = new System.Drawing.Size(23, 34);
-            this.lblC3.TabIndex = 145;
-            this.lblC3.Text = "*";
-            // 
-            // lblB3
-            // 
-            this.lblB3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB3.AutoSize = true;
-            this.lblB3.BackColor = System.Drawing.Color.Transparent;
-            this.lblB3.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB3.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB3.Location = new System.Drawing.Point(25, 17);
-            this.lblB3.Name = "lblB3";
-            this.lblB3.Size = new System.Drawing.Size(23, 34);
-            this.lblB3.TabIndex = 145;
-            this.lblB3.Text = "*";
-            // 
-            // lblB2
-            // 
-            this.lblB2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB2.AutoSize = true;
-            this.lblB2.BackColor = System.Drawing.Color.Transparent;
-            this.lblB2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB2.Location = new System.Drawing.Point(25, 17);
-            this.lblB2.Name = "lblB2";
-            this.lblB2.Size = new System.Drawing.Size(23, 34);
-            this.lblB2.TabIndex = 145;
-            this.lblB2.Text = "*";
-            // 
-            // lblB1
-            // 
-            this.lblB1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblB1.AutoSize = true;
-            this.lblB1.BackColor = System.Drawing.Color.Transparent;
-            this.lblB1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblB1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblB1.Location = new System.Drawing.Point(25, 17);
-            this.lblB1.Name = "lblB1";
-            this.lblB1.Size = new System.Drawing.Size(23, 34);
-            this.lblB1.TabIndex = 145;
-            this.lblB1.Text = "*";
-            // 
-            // lblC1
-            // 
-            this.lblC1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC1.AutoSize = true;
-            this.lblC1.BackColor = System.Drawing.Color.Transparent;
-            this.lblC1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC1.Location = new System.Drawing.Point(25, 17);
-            this.lblC1.Name = "lblC1";
-            this.lblC1.Size = new System.Drawing.Size(23, 34);
-            this.lblC1.TabIndex = 145;
-            this.lblC1.Text = "*";
-            // 
-            // lblC2
-            // 
-            this.lblC2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblC2.AutoSize = true;
-            this.lblC2.BackColor = System.Drawing.Color.Transparent;
-            this.lblC2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblC2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblC2.Location = new System.Drawing.Point(25, 17);
-            this.lblC2.Name = "lblC2";
-            this.lblC2.Size = new System.Drawing.Size(23, 34);
-            this.lblC2.TabIndex = 145;
-            this.lblC2.Text = "*";
-            // 
-            // lblD2
-            // 
-            this.lblD2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD2.AutoSize = true;
-            this.lblD2.BackColor = System.Drawing.Color.Transparent;
-            this.lblD2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD2.Location = new System.Drawing.Point(25, 17);
-            this.lblD2.Name = "lblD2";
-            this.lblD2.Size = new System.Drawing.Size(23, 34);
-            this.lblD2.TabIndex = 145;
-            this.lblD2.Text = "*";
-            // 
-            // lblD1
-            // 
-            this.lblD1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblD1.AutoSize = true;
-            this.lblD1.BackColor = System.Drawing.Color.Transparent;
-            this.lblD1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblD1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblD1.Location = new System.Drawing.Point(25, 17);
-            this.lblD1.Name = "lblD1";
-            this.lblD1.Size = new System.Drawing.Size(23, 34);
-            this.lblD1.TabIndex = 145;
-            this.lblD1.Text = "*";
-            // 
-            // lblE1
-            // 
-            this.lblE1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE1.AutoSize = true;
-            this.lblE1.BackColor = System.Drawing.Color.Transparent;
-            this.lblE1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE1.Location = new System.Drawing.Point(25, 17);
-            this.lblE1.Name = "lblE1";
-            this.lblE1.Size = new System.Drawing.Size(23, 34);
-            this.lblE1.TabIndex = 145;
-            this.lblE1.Text = "*";
-            // 
-            // lblE2
-            // 
-            this.lblE2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblE2.AutoSize = true;
-            this.lblE2.BackColor = System.Drawing.Color.Transparent;
-            this.lblE2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblE2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblE2.Location = new System.Drawing.Point(25, 17);
-            this.lblE2.Name = "lblE2";
-            this.lblE2.Size = new System.Drawing.Size(23, 34);
-            this.lblE2.TabIndex = 145;
-            this.lblE2.Text = "*";
-            // 
-            // lblF2
-            // 
-            this.lblF2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF2.AutoSize = true;
-            this.lblF2.BackColor = System.Drawing.Color.Transparent;
-            this.lblF2.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF2.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF2.Location = new System.Drawing.Point(25, 17);
-            this.lblF2.Name = "lblF2";
-            this.lblF2.Size = new System.Drawing.Size(23, 34);
-            this.lblF2.TabIndex = 145;
-            this.lblF2.Text = "*";
-            // 
-            // lblF1
-            // 
-            this.lblF1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblF1.AutoSize = true;
-            this.lblF1.BackColor = System.Drawing.Color.Transparent;
-            this.lblF1.Font = new System.Drawing.Font("Impact", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblF1.ForeColor = System.Drawing.Color.Maroon;
-            this.lblF1.Location = new System.Drawing.Point(25, 17);
-            this.lblF1.Name = "lblF1";
-            this.lblF1.Size = new System.Drawing.Size(23, 34);
-            this.lblF1.TabIndex = 145;
-            this.lblF1.Text = "*";
-            // 
-            // frmQueue
+            // frmSeat
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -2515,7 +2515,7 @@
             this.Controls.Add(this.pnlA1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MinimizeBox = false;
-            this.Name = "frmQueue";
+            this.Name = "frmSeat";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Queue";
             this.Load += new System.EventHandler(this.formQueue_Load);

@@ -58,11 +58,11 @@
     <Compile Include="frmConfirm.Designer.cs">
       <DependentUpon>frmConfirm.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmQueue.cs">
+    <Compile Include="frmSeat.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmQueue.Designer.cs">
-      <DependentUpon>frmQueue.cs</DependentUpon>
+    <Compile Include="frmSeat.Designer.cs">
+      <DependentUpon>frmSeat.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,8 +72,8 @@
     <EmbeddedResource Include="frmConfirm.resx">
       <DependentUpon>frmConfirm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmQueue.resx">
-      <DependentUpon>frmQueue.cs</DependentUpon>
+    <EmbeddedResource Include="frmSeat.resx">
+      <DependentUpon>frmSeat.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

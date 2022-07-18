@@ -7,5 +7,5 @@ c:\users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\
 c:\users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.exe
 c:\users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.pdb
 C:\Users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.frmBuyTicket.resources
-C:\Users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.frmQueue.resources
 C:\Users\ed\documents\visual studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.frmConfirm.resources
+C:\Users\ed\Documents\Visual Studio 2015\Projects\TicketingApp\TicketingApp\obj\Debug\TicketingApp.frmSeat.resources

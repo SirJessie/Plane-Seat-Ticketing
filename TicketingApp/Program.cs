@@ -16,7 +16,7 @@ namespace TicketingApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmQueue());
+            Application.Run(new frmSeat());
         }
     }
 }
